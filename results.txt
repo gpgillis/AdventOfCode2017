@@ -1,0 +1,4058 @@
+
+Solving Puzzle Puzzle8AB ...
+Initializing registers ... done!  Loaded 25 registers.
+
+Processing b against bkd
+EVAL: rv = 0, tv = -1 op :  >  TRUE
+INC : rv = 0, ov = 580
+RESULT: register b = 580
+
+Processing v against z
+EVAL: rv = 0, tv = -1 op :  >=  TRUE
+INC : rv = 0, ov = 491
+RESULT: register v = 491
+
+Processing ehd against b
+EVAL: rv = 580, tv = 588 op :  <  TRUE
+INC : rv = 0, ov = 994
+RESULT: register ehd = 994
+
+Processing oso against kfn
+EVAL: rv = 0, tv = -9 op :  <=  FALSE
+
+Processing o against uly
+EVAL: rv = 0, tv = 8 op :  <  TRUE
+INC : rv = 0, ov = 933
+RESULT: register o = 933
+
+Processing xn against a
+EVAL: rv = 0, tv = -10 op :  !=  TRUE
+DEC : rv = 0, ov = 416
+RESULT: register xn = -416
+
+Processing uly against qur
+EVAL: rv = 0, tv = -6 op :  !=  TRUE
+DEC : rv = 0, ov = 328
+RESULT: register uly = -328
+
+Processing xn against jf
+EVAL: rv = 0, tv = -1 op :  >  TRUE
+DEC : rv = -416, ov = 515
+RESULT: register xn = -931
+
+Processing oso against hnb
+EVAL: rv = 0, tv = -8 op :  >  TRUE
+DEC : rv = 0, ov = -542
+RESULT: register oso = 542
+
+Processing ehd against fw
+EVAL: rv = 0, tv = 6 op :  !=  TRUE
+DEC : rv = 994, ov = -241
+RESULT: register ehd = 1235
+
+Processing xn against a
+EVAL: rv = 0, tv = -2 op :  >  TRUE
+DEC : rv = -931, ov = -416
+RESULT: register xn = -515
+
+Processing a against b
+EVAL: rv = 580, tv = 581 op :  <=  TRUE
+DEC : rv = 0, ov = 92
+RESULT: register a = -92
+
+Processing he against fz
+EVAL: rv = 0, tv = 1 op :  <=  TRUE
+DEC : rv = 0, ov = -918
+RESULT: register he = 918
+
+Processing bkd against uly
+EVAL: rv = -328, tv = -338 op :  <=  FALSE
+
+Processing z against he
+EVAL: rv = 918, tv = 909 op :  >  TRUE
+INC : rv = 0, ov = 182
+RESULT: register z = 182
+
+Processing dl against jf
+EVAL: rv = 0, tv = 0 op :  ==  TRUE
+INC : rv = 0, ov = 357
+RESULT: register dl = 357
+
+Processing q against kfn
+EVAL: rv = 0, tv = 0 op :  !=  FALSE
+
+Processing cp against rny
+EVAL: rv = 0, tv = 0 op :  !=  FALSE
+
+Processing hnb against fw
+EVAL: rv = 0, tv = -8 op :  >  TRUE
+DEC : rv = 0, ov = 800
+RESULT: register hnb = -800
+
+Processing hnb against he
+EVAL: rv = 918, tv = 917 op :  <=  FALSE
+
+Processing he against xn
+EVAL: rv = -515, tv = -525 op :  ==  FALSE
+
+Processing eje against yk
+EVAL: rv = 0, tv = 0 op :  ==  TRUE
+DEC : rv = 0, ov = 818
+RESULT: register eje = -818
+
+Processing v against v
+EVAL: rv = 491, tv = 491 op :  !=  TRUE
+INC : rv = 491, ov = -115
+RESULT: register v = 376
+
+Processing a against qur
+EVAL: rv = 0, tv = 0 op :  ==  TRUE
+DEC : rv = -92, ov = -463
+RESULT: register a = 371
+
+Processing he against qur
+EVAL: rv = 0, tv = 5 op :  >=  FALSE
+
+Processing a against ehd
+EVAL: rv = 1235, tv = 1233 op :  >  TRUE
+INC : rv = 371, ov = 731
+RESULT: register a = 1102
+
+Processing a against oxv
+EVAL: rv = 0, tv = -7 op :  >  TRUE
+DEC : rv = 1102, ov = -202
+RESULT: register a = 1304
+
+Processing qur against qur
+EVAL: rv = 0, tv = -5 op :  >  TRUE
+INC : rv = 0, ov = 816
+RESULT: register qur = 816
+
+Processing cp against bkd
+EVAL: rv = 0, tv = 1 op :  <  TRUE
+INC : rv = 0, ov = -636
+RESULT: register cp = -636
+
+Processing b against a
+EVAL: rv = 1304, tv = 1303 op :  !=  TRUE
+DEC : rv = 580, ov = -650
+RESULT: register b = 1230
+
+Processing b against xn
+EVAL: rv = -515, tv = -524 op :  >=  TRUE
+INC : rv = 1230, ov = -337
+RESULT: register b = 893
+
+Processing yk against bkd
+EVAL: rv = 0, tv = 5 op :  <=  TRUE
+DEC : rv = 0, ov = 200
+RESULT: register yk = -200
+
+Processing uly against eje
+EVAL: rv = -818, tv = -825 op :  <=  FALSE
+
+Processing fw against oso
+EVAL: rv = 542, tv = 542 op :  ==  FALSE
+
+Processing oxv against oso
+EVAL: rv = 542, tv = 536 op :  >=  TRUE
+DEC : rv = 0, ov = 77
+RESULT: register oxv = -77
+
+Processing fz against hnb
+EVAL: rv = -800, tv = -792 op :  !=  TRUE
+DEC : rv = 0, ov = 145
+RESULT: register fz = -145
+
+Processing dl against ehd
+EVAL: rv = 1235, tv = 1242 op :  <  TRUE
+DEC : rv = 357, ov = -548
+RESULT: register dl = 905
+
+Processing qur against fz
+EVAL: rv = -145, tv = -149 op :  >=  TRUE
+DEC : rv = 816, ov = 573
+RESULT: register qur = 243
+
+Processing o against oxv
+EVAL: rv = -77, tv = -78 op :  >=  TRUE
+DEC : rv = 933, ov = 901
+RESULT: register o = 32
+
+Processing qur against oxv
+EVAL: rv = -77, tv = -69 op :  >  FALSE
+
+Processing q against z
+EVAL: rv = 182, tv = 188 op :  !=  TRUE
+INC : rv = 0, ov = 240
+RESULT: register q = 240
+
+Processing uly against dl
+EVAL: rv = 905, tv = 899 op :  >  TRUE
+INC : rv = -328, ov = 232
+RESULT: register uly = -96
+
+Processing v against uly
+EVAL: rv = -96, tv = -89 op :  <  TRUE
+DEC : rv = 376, ov = 760
+RESULT: register v = -384
+
+Processing eje against uly
+EVAL: rv = -96, tv = -90 op :  <  TRUE
+INC : rv = -818, ov = 462
+RESULT: register eje = -356
+
+Processing rny against ehd
+EVAL: rv = 1235, tv = 1230 op :  >  TRUE
+DEC : rv = 0, ov = -750
+RESULT: register rny = 750
+
+Processing ehd against ehd
+EVAL: rv = 1235, tv = 1226 op :  <  FALSE
+
+Processing jf against jf
+EVAL: rv = 0, tv = -6 op :  >=  TRUE
+DEC : rv = 0, ov = 374
+RESULT: register jf = -374
+
+Processing fz against fz
+EVAL: rv = -145, tv = -145 op :  ==  FALSE
+
+Processing z against fw
+EVAL: rv = 0, tv = 584 op :  <=  TRUE
+DEC : rv = 182, ov = -938
+RESULT: register z = 1120
+
+Processing o against jf
+EVAL: rv = -374, tv = -365 op :  !=  TRUE
+INC : rv = 32, ov = 48
+RESULT: register o = 80
+
+Processing xn against v
+EVAL: rv = -384, tv = -269 op :  ==  FALSE
+
+Processing fw against uly
+EVAL: rv = -96, tv = -104 op :  >  TRUE
+INC : rv = 0, ov = -58
+RESULT: register fw = -58
+
+Processing b against xn
+EVAL: rv = -515, tv = 284 op :  !=  TRUE
+DEC : rv = 893, ov = 158
+RESULT: register b = 735
+
+Processing dl against kfn
+EVAL: rv = 0, tv = -7 op :  !=  TRUE
+DEC : rv = 905, ov = 222
+RESULT: register dl = 683
+
+Processing cp against eje
+EVAL: rv = -356, tv = -356 op :  ==  FALSE
+
+Processing bkd against ehd
+EVAL: rv = 1235, tv = 1235 op :  ==  FALSE
+
+Processing dl against mf
+EVAL: rv = 0, tv = -9 op :  >  TRUE
+DEC : rv = 683, ov = 461
+RESULT: register dl = 222
+
+Processing o against fz
+EVAL: rv = -145, tv = -262 op :  !=  TRUE
+INC : rv = 80, ov = 971
+RESULT: register o = 1051
+
+Processing fw against ehd
+EVAL: rv = 1235, tv = 1245 op :  <  TRUE
+DEC : rv = -58, ov = 786
+RESULT: register fw = -844
+
+Processing xn against eje
+EVAL: rv = -356, tv = -349 op :  !=  TRUE
+DEC : rv = -515, ov = 221
+RESULT: register xn = -736
+
+Processing cp against eje
+EVAL: rv = -356, tv = -356 op :  ==  FALSE
+
+Processing fz against a
+EVAL: rv = 1304, tv = 1310 op :  <=  TRUE
+DEC : rv = -145, ov = -710
+RESULT: register fz = 565
+
+Processing fw against oxv
+EVAL: rv = -77, tv = -77 op :  ==  TRUE
+INC : rv = -844, ov = -159
+RESULT: register fw = -1003
+
+Processing fw against fz
+EVAL: rv = 565, tv = 445 op :  !=  TRUE
+INC : rv = -1003, ov = -328
+RESULT: register fw = -1331
+
+Processing mf against mf
+EVAL: rv = 0, tv = 0 op :  ==  TRUE
+DEC : rv = 0, ov = -356
+RESULT: register mf = 356
+
+Processing bkd against ehd
+EVAL: rv = 1235, tv = 1229 op :  >  TRUE
+DEC : rv = 0, ov = 750
+RESULT: register bkd = -750
+
+Processing kfn against cp
+EVAL: rv = -636, tv = -228 op :  <  TRUE
+INC : rv = 0, ov = -637
+RESULT: register kfn = -637
+
+Processing eje against o
+EVAL: rv = 1051, tv = 1053 op :  <=  TRUE
+DEC : rv = -356, ov = 491
+RESULT: register eje = -847
+
+Processing xn against v
+EVAL: rv = -384, tv = -276 op :  >=  FALSE
+
+Processing cp against he
+EVAL: rv = 918, tv = 918 op :  !=  TRUE
+DEC : rv = -636, ov = -316
+RESULT: register cp = -320
+
+Processing o against fz
+EVAL: rv = 565, tv = 436 op :  <  FALSE
+
+Processing oxv against yk
+EVAL: rv = -200, tv = -206 op :  !=  TRUE
+DEC : rv = -77, ov = 257
+RESULT: register oxv = -334
+
+Processing fw against b
+EVAL: rv = 735, tv = 737 op :  !=  TRUE
+DEC : rv = -1331, ov = 9
+RESULT: register fw = -1340
+
+Processing v against cp
+EVAL: rv = -320, tv = -224 op :  ==  FALSE
+
+Processing dl against xn
+EVAL: rv = -736, tv = -83 op :  <  TRUE
+INC : rv = 222, ov = -37
+RESULT: register dl = 185
+
+Processing oso against uly
+EVAL: rv = -96, tv = -88 op :  <  TRUE
+DEC : rv = 542, ov = -65
+RESULT: register oso = 607
+
+Processing q against fz
+EVAL: rv = 565, tv = 445 op :  ==  FALSE
+
+Processing ehd against b
+EVAL: rv = 735, tv = 735 op :  !=  TRUE
+DEC : rv = 1235, ov = 627
+RESULT: register ehd = 608
+
+Processing xn against q
+EVAL: rv = 240, tv = -371 op :  ==  FALSE
+
+Processing oso against oxv
+EVAL: rv = -334, tv = -336 op :  >=  TRUE
+INC : rv = 607, ov = -576
+RESULT: register oso = 31
+
+Processing oxv against bkd
+EVAL: rv = -750, tv = -619 op :  ==  FALSE
+
+Processing xn against fw
+EVAL: rv = -1340, tv = -421 op :  <=  TRUE
+INC : rv = -736, ov = -668
+RESULT: register xn = -1404
+
+Processing he against b
+EVAL: rv = 735, tv = 728 op :  !=  TRUE
+DEC : rv = 918, ov = -365
+RESULT: register he = 1283
+
+Processing ehd against b
+EVAL: rv = 735, tv = 734 op :  >  TRUE
+INC : rv = 608, ov = -73
+RESULT: register ehd = 535
+
+Processing v against uly
+EVAL: rv = -96, tv = -88 op :  >=  FALSE
+
+Processing fz against v
+EVAL: rv = -384, tv = -578 op :  <  FALSE
+
+Processing oso against b
+EVAL: rv = 735, tv = 734 op :  >=  TRUE
+INC : rv = 31, ov = -77
+RESULT: register oso = -46
+
+Processing a against z
+EVAL: rv = 1120, tv = 1126 op :  <  TRUE
+INC : rv = 1304, ov = -927
+RESULT: register a = 377
+
+Processing oso against hnb
+EVAL: rv = -800, tv = -803 op :  !=  TRUE
+INC : rv = -46, ov = 898
+RESULT: register oso = 852
+
+Processing v against qur
+EVAL: rv = 243, tv = 251 op :  >  FALSE
+
+Processing qur against uly
+EVAL: rv = -96, tv = -87 op :  <  TRUE
+DEC : rv = 243, ov = -153
+RESULT: register qur = 396
+
+Processing he against dl
+EVAL: rv = 185, tv = 222 op :  !=  TRUE
+DEC : rv = 1283, ov = 678
+RESULT: register he = 605
+
+Processing fz against a
+EVAL: rv = 377, tv = 375 op :  >  TRUE
+INC : rv = 565, ov = 718
+RESULT: register fz = 1283
+
+Processing oxv against bkd
+EVAL: rv = -750, tv = -619 op :  ==  FALSE
+
+Processing fw against qur
+EVAL: rv = 396, tv = 394 op :  >=  TRUE
+INC : rv = -1340, ov = 899
+RESULT: register fw = -441
+
+Processing xn against rny
+EVAL: rv = 750, tv = 744 op :  <=  FALSE
+
+Processing v against fw
+EVAL: rv = -441, tv = 478 op :  <=  TRUE
+DEC : rv = -384, ov = -863
+RESULT: register v = 479
+
+Processing qur against jf
+EVAL: rv = -374, tv = -383 op :  >=  TRUE
+INC : rv = 396, ov = 676
+RESULT: register qur = 1072
+
+Processing fw against he
+EVAL: rv = 605, tv = 1274 op :  >  FALSE
+
+Processing bkd against v
+EVAL: rv = 479, tv = 277 op :  !=  TRUE
+DEC : rv = -750, ov = -63
+RESULT: register bkd = -687
+
+Processing v against qur
+EVAL: rv = 1072, tv = 1077 op :  <  TRUE
+INC : rv = 479, ov = -313
+RESULT: register v = 166
+
+Processing eje against kfn
+EVAL: rv = -637, tv = 9 op :  !=  TRUE
+INC : rv = -847, ov = -576
+RESULT: register eje = -1423
+
+Processing bkd against bkd
+EVAL: rv = -687, tv = -616 op :  !=  TRUE
+DEC : rv = -687, ov = 823
+RESULT: register bkd = -1510
+
+Processing fw against uly
+EVAL: rv = -96, tv = -103 op :  >  TRUE
+DEC : rv = -441, ov = -748
+RESULT: register fw = 307
+
+Processing cp against fw
+EVAL: rv = 307, tv = 264 op :  <  FALSE
+
+Processing q against jf
+EVAL: rv = -374, tv = -374 op :  ==  FALSE
+
+Processing fw against rny
+EVAL: rv = 750, tv = 741 op :  >  TRUE
+DEC : rv = 307, ov = 871
+RESULT: register fw = -564
+
+Processing oxv against fz
+EVAL: rv = 1283, tv = 829 op :  <  FALSE
+
+Processing rny against b
+EVAL: rv = 735, tv = 737 op :  <  TRUE
+DEC : rv = 750, ov = -660
+RESULT: register rny = 1410
+
+Processing kfn against fz
+EVAL: rv = 1283, tv = 813 op :  !=  TRUE
+INC : rv = -637, ov = -309
+RESULT: register kfn = -946
+
+Processing v against fw
+EVAL: rv = -564, tv = -617 op :  <=  FALSE
+
+Processing b against q
+EVAL: rv = 240, tv = 44 op :  <=  FALSE
+
+Processing xn against z
+EVAL: rv = 1120, tv = 1117 op :  !=  TRUE
+INC : rv = -1404, ov = 462
+RESULT: register xn = -942
+
+Processing o against q
+EVAL: rv = 240, tv = 40 op :  !=  TRUE
+DEC : rv = 1051, ov = 555
+RESULT: register o = 496
+
+Processing z against kfn
+EVAL: rv = -946, tv = -309 op :  ==  FALSE
+
+Processing bkd against ehd
+EVAL: rv = 535, tv = 1164 op :  <  TRUE
+DEC : rv = -1510, ov = 487
+RESULT: register bkd = -1997
+
+Processing rny against xn
+EVAL: rv = -942, tv = -287 op :  <=  TRUE
+DEC : rv = 1410, ov = -795
+RESULT: register rny = 2205
+
+Processing jf against cp
+EVAL: rv = -320, tv = -1195 op :  !=  TRUE
+INC : rv = -374, ov = 511
+RESULT: register jf = 137
+
+Processing z against z
+EVAL: rv = 1120, tv = 1706 op :  ==  FALSE
+
+Processing mf against dl
+EVAL: rv = 185, tv = 222 op :  ==  FALSE
+
+Processing fz against yk
+EVAL: rv = -200, tv = -205 op :  <  FALSE
+
+Processing uly against kfn
+EVAL: rv = -946, tv = -303 op :  <=  TRUE
+DEC : rv = -96, ov = -323
+RESULT: register uly = 227
+
+Processing ehd against hnb
+EVAL: rv = -800, tv = -790 op :  <  TRUE
+INC : rv = 535, ov = 437
+RESULT: register ehd = 972
+
+Processing b against oso
+EVAL: rv = 852, tv = 852 op :  <=  TRUE
+INC : rv = 735, ov = 101
+RESULT: register b = 836
+
+Processing q against mf
+EVAL: rv = 356, tv = 203 op :  >  TRUE
+DEC : rv = 240, ov = -994
+RESULT: register q = 1234
+
+Processing z against oxv
+EVAL: rv = -334, tv = -775 op :  ==  FALSE
+
+Processing dl against o
+EVAL: rv = 496, tv = 1055 op :  <  TRUE
+DEC : rv = 185, ov = -298
+RESULT: register dl = 483
+
+Processing he against mf
+EVAL: rv = 356, tv = 199 op :  <  FALSE
+
+Processing kfn against mf
+EVAL: rv = 356, tv = 213 op :  <  FALSE
+
+Processing kfn against fw
+EVAL: rv = -564, tv = -620 op :  >=  TRUE
+DEC : rv = -946, ov = 979
+RESULT: register kfn = -1925
+
+Processing q against rny
+EVAL: rv = 2205, tv = 2213 op :  <  TRUE
+DEC : rv = 1234, ov = 258
+RESULT: register q = 976
+
+Processing kfn against kfn
+EVAL: rv = -1925, tv = -1628 op :  ==  FALSE
+
+Processing yk against cp
+EVAL: rv = -320, tv = -1186 op :  ==  FALSE
+
+Processing q against b
+EVAL: rv = 836, tv = 1133 op :  >=  FALSE
+
+Processing v against jf
+EVAL: rv = 137, tv = 129 op :  >=  TRUE
+INC : rv = 166, ov = -223
+RESULT: register v = -57
+
+Processing fz against yk
+EVAL: rv = -200, tv = -12 op :  >=  FALSE
+
+Processing qur against v
+EVAL: rv = -57, tv = -1147 op :  >  TRUE
+INC : rv = 1072, ov = -872
+RESULT: register qur = 200
+
+Processing bkd against uly
+EVAL: rv = 227, tv = 227 op :  !=  TRUE
+INC : rv = -1997, ov = -333
+RESULT: register bkd = -2330
+
+Processing yk against o
+EVAL: rv = 496, tv = 1057 op :  <=  TRUE
+DEC : rv = -200, ov = -358
+RESULT: register yk = 158
+
+Processing a against oso
+EVAL: rv = 852, tv = 855 op :  <=  TRUE
+DEC : rv = 377, ov = -765
+RESULT: register a = 1142
+
+Processing ehd against a
+EVAL: rv = 1142, tv = 1142 op :  <=  TRUE
+DEC : rv = 972, ov = 317
+RESULT: register ehd = 655
+
+Processing yk against b
+EVAL: rv = 836, tv = 1136 op :  ==  FALSE
+
+Processing yk against v
+EVAL: rv = -57, tv = -1133 op :  <=  FALSE
+
+Processing xn against cp
+EVAL: rv = -320, tv = -1180 op :  <  FALSE
+
+Processing v against ehd
+EVAL: rv = 655, tv = 1275 op :  >  FALSE
+
+Processing he against oxv
+EVAL: rv = -334, tv = -766 op :  ==  FALSE
+
+Processing b against q
+EVAL: rv = 976, tv = -788 op :  >=  TRUE
+INC : rv = 836, ov = -969
+RESULT: register b = -133
+
+Processing fz against ehd
+EVAL: rv = 655, tv = 1282 op :  ==  FALSE
+
+Processing oso against bkd
+EVAL: rv = -2330, tv = -1922 op :  <  TRUE
+DEC : rv = 852, ov = -369
+RESULT: register oso = 1221
+
+Processing rny against xn
+EVAL: rv = -942, tv = -1140 op :  <  FALSE
+
+Processing a against he
+EVAL: rv = 605, tv = 1248 op :  ==  FALSE
+
+Processing hnb against v
+EVAL: rv = -57, tv = -1865 op :  ==  FALSE
+
+Processing qur against dl
+EVAL: rv = 483, tv = 526 op :  <  TRUE
+DEC : rv = 200, ov = -163
+RESULT: register qur = 363
+
+Processing eje against jf
+EVAL: rv = 137, tv = 137 op :  ==  FALSE
+
+Processing ehd against a
+EVAL: rv = 1142, tv = 1137 op :  !=  TRUE
+INC : rv = 655, ov = 6
+RESULT: register ehd = 661
+
+Processing bkd against v
+EVAL: rv = -57, tv = -1872 op :  <  FALSE
+
+Processing he against yk
+EVAL: rv = 158, tv = 1246 op :  !=  TRUE
+INC : rv = 605, ov = -931
+RESULT: register he = -326
+
+Processing xn against z
+EVAL: rv = 1120, tv = 2305 op :  !=  TRUE
+DEC : rv = -942, ov = 901
+RESULT: register xn = -1843
+
+Processing xn against xn
+EVAL: rv = -1843, tv = -2044 op :  <=  FALSE
+
+Processing b against ehd
+EVAL: rv = 661, tv = 1278 op :  >  FALSE
+
+Processing z against b
+EVAL: rv = -133, tv = -690 op :  >  TRUE
+INC : rv = 1120, ov = 518
+RESULT: register z = 1638
+
+Processing a against qur
+EVAL: rv = 363, tv = 363 op :  ==  FALSE
+
+Processing oso against oso
+EVAL: rv = 1221, tv = 1212 op :  <=  FALSE
+
+Processing z against qur
+EVAL: rv = 363, tv = 364 op :  >=  FALSE
+
+Processing o against uly
+EVAL: rv = 227, tv = 236 op :  <=  TRUE
+DEC : rv = 496, ov = 335
+RESULT: register o = 161
+
+Processing a against fz
+EVAL: rv = 1283, tv = 1634 op :  !=  TRUE
+DEC : rv = 1142, ov = -213
+RESULT: register a = 1355
+
+Processing yk against rny
+EVAL: rv = 2205, tv = 3155 op :  >  FALSE
+
+Processing mf against eje
+EVAL: rv = -1423, tv = -660 op :  !=  TRUE
+DEC : rv = 356, ov = 622
+RESULT: register mf = -266
+
+Processing oxv against z
+EVAL: rv = 1638, tv = 2301 op :  ==  FALSE
+
+Processing o against qur
+EVAL: rv = 363, tv = 355 op :  >  TRUE
+DEC : rv = 161, ov = 409
+RESULT: register o = -248
+
+Processing fw against mf
+EVAL: rv = -266, tv = -423 op :  >  TRUE
+DEC : rv = -564, ov = -50
+RESULT: register fw = -514
+
+Processing v against uly
+EVAL: rv = 227, tv = 235 op :  <=  TRUE
+DEC : rv = -57, ov = -655
+RESULT: register v = 598
+
+Processing yk against rny
+EVAL: rv = 2205, tv = 3162 op :  >  FALSE
+
+Processing dl against cp
+EVAL: rv = -320, tv = -1190 op :  !=  TRUE
+INC : rv = 483, ov = 888
+RESULT: register dl = 1371
+
+Processing xn against fz
+EVAL: rv = 1283, tv = 1652 op :  !=  TRUE
+INC : rv = -1843, ov = 799
+RESULT: register xn = -1044
+
+Processing hnb against fw
+EVAL: rv = -514, tv = -565 op :  <  FALSE
+
+Processing q against kfn
+EVAL: rv = -1925, tv = -2574 op :  ==  FALSE
+
+Processing o against dl
+EVAL: rv = 1371, tv = 1411 op :  <  TRUE
+DEC : rv = -248, ov = -407
+RESULT: register o = 159
+
+Processing b against dl
+EVAL: rv = 1371, tv = 1402 op :  >  FALSE
+
+Processing v against rny
+EVAL: rv = 2205, tv = 3165 op :  <  TRUE
+INC : rv = 598, ov = -755
+RESULT: register v = -157
+
+Processing oxv against kfn
+EVAL: rv = -1925, tv = -2574 op :  ==  FALSE
+
+Processing oso against v
+EVAL: rv = -157, tv = -1958 op :  !=  TRUE
+INC : rv = 1221, ov = 408
+RESULT: register oso = 1629
+
+Processing b against z
+EVAL: rv = 1638, tv = 2303 op :  <=  TRUE
+INC : rv = -133, ov = 719
+RESULT: register b = 586
+
+Processing jf against bkd
+EVAL: rv = -2330, tv = -1925 op :  <=  TRUE
+INC : rv = 137, ov = -872
+RESULT: register jf = -735
+
+Processing ehd against dl
+EVAL: rv = 1371, tv = 1409 op :  >=  FALSE
+
+Processing qur against oxv
+EVAL: rv = -334, tv = -633 op :  >  TRUE
+DEC : rv = 363, ov = 285
+RESULT: register qur = 78
+
+Processing fz against he
+EVAL: rv = -326, tv = 313 op :  >=  FALSE
+
+Processing he against hnb
+EVAL: rv = -800, tv = -1256 op :  <=  FALSE
+
+Processing eje against qur
+EVAL: rv = 78, tv = 83 op :  >=  FALSE
+
+Processing o against cp
+EVAL: rv = -320, tv = -1183 op :  >  TRUE
+INC : rv = 159, ov = -592
+RESULT: register o = -433
+
+Processing bkd against uly
+EVAL: rv = 227, tv = 218 op :  >  TRUE
+DEC : rv = -2330, ov = 185
+RESULT: register bkd = -2515
+
+Processing oso against v
+EVAL: rv = -157, tv = -1969 op :  <=  FALSE
+
+Processing v against oxv
+EVAL: rv = -334, tv = -620 op :  >=  TRUE
+INC : rv = -157, ov = 163
+RESULT: register v = 6
+
+Processing ehd against rny
+EVAL: rv = 2205, tv = 3154 op :  >  FALSE
+
+Processing fz against uly
+EVAL: rv = 227, tv = 217 op :  !=  TRUE
+DEC : rv = 1283, ov = 936
+RESULT: register fz = 347
+
+Processing rny against mf
+EVAL: rv = -266, tv = -419 op :  ==  FALSE
+
+Processing dl against xn
+EVAL: rv = -1044, tv = -513 op :  >=  FALSE
+
+Processing yk against o
+EVAL: rv = -433, tv = 722 op :  <=  TRUE
+DEC : rv = 158, ov = -132
+RESULT: register yk = 290
+
+Processing uly against a
+EVAL: rv = 1355, tv = 685 op :  >=  TRUE
+DEC : rv = 227, ov = -425
+RESULT: register uly = 652
+
+Processing kfn against eje
+EVAL: rv = -1423, tv = -662 op :  <=  TRUE
+DEC : rv = -1925, ov = 703
+RESULT: register kfn = -2628
+
+Processing uly against dl
+EVAL: rv = 1371, tv = 2053 op :  <  TRUE
+INC : rv = 652, ov = 518
+RESULT: register uly = 1170
+
+Processing o against yk
+EVAL: rv = 290, tv = 532 op :  <=  TRUE
+DEC : rv = -433, ov = -956
+RESULT: register o = 523
+
+Processing b against kfn
+EVAL: rv = -2628, tv = -3273 op :  !=  TRUE
+INC : rv = 586, ov = -46
+RESULT: register b = 540
+
+Processing z against fw
+EVAL: rv = -514, tv = -565 op :  !=  TRUE
+DEC : rv = 1638, ov = -194
+RESULT: register z = 1832
+
+Processing b against cp
+EVAL: rv = -320, tv = -1186 op :  ==  FALSE
+
+Processing yk against fw
+EVAL: rv = -514, tv = -574 op :  >=  TRUE
+INC : rv = 290, ov = 842
+RESULT: register yk = 1132
+
+Processing z against eje
+EVAL: rv = -1423, tv = -672 op :  >=  FALSE
+
+Processing jf against z
+EVAL: rv = 1832, tv = 3151 op :  >=  FALSE
+
+Processing jf against bkd
+EVAL: rv = -2515, tv = -2114 op :  ==  FALSE
+
+Processing qur against kfn
+EVAL: rv = -2628, tv = -3277 op :  ==  FALSE
+
+Processing kfn against mf
+EVAL: rv = -266, tv = -419 op :  ==  FALSE
+
+Processing yk against q
+EVAL: rv = 976, tv = -63 op :  >  TRUE
+INC : rv = 1132, ov = 928
+RESULT: register yk = 2060
+
+Processing xn against fz
+EVAL: rv = 347, tv = 717 op :  !=  TRUE
+INC : rv = -1044, ov = 56
+RESULT: register xn = -988
+
+Processing oxv against o
+EVAL: rv = 523, tv = 713 op :  >  FALSE
+
+Processing ehd against b
+EVAL: rv = 540, tv = 749 op :  <  TRUE
+INC : rv = 661, ov = 463
+RESULT: register ehd = 1124
+
+Processing eje against xn
+EVAL: rv = -988, tv = -451 op :  !=  TRUE
+INC : rv = -1423, ov = -707
+RESULT: register eje = -2130
+
+Processing cp against eje
+EVAL: rv = -2130, tv = -1377 op :  >  FALSE
+
+Processing qur against hnb
+EVAL: rv = -800, tv = -1267 op :  >=  TRUE
+DEC : rv = 78, ov = -143
+RESULT: register qur = 221
+
+Processing fz against b
+EVAL: rv = 540, tv = 741 op :  <=  TRUE
+DEC : rv = 347, ov = 993
+RESULT: register fz = -646
+
+Processing oxv against fw
+EVAL: rv = -514, tv = -563 op :  <=  FALSE
+
+Processing qur against cp
+EVAL: rv = -320, tv = -1189 op :  ==  FALSE
+
+Processing he against rny
+EVAL: rv = 2205, tv = 3743 op :  <  TRUE
+INC : rv = -326, ov = -438
+RESULT: register he = -764
+
+Processing v against hnb
+EVAL: rv = -800, tv = -1260 op :  ==  FALSE
+
+Processing hnb against hnb
+EVAL: rv = -800, tv = -1270 op :  !=  TRUE
+INC : rv = -800, ov = 35
+RESULT: register hnb = -765
+
+Processing dl against qur
+EVAL: rv = 221, tv = -554 op :  ==  FALSE
+
+Processing ehd against ehd
+EVAL: rv = 1124, tv = 2194 op :  >=  FALSE
+
+Processing he against dl
+EVAL: rv = 1371, tv = 2958 op :  <  TRUE
+DEC : rv = -764, ov = -330
+RESULT: register he = -434
+
+Processing b against v
+EVAL: rv = 6, tv = -1323 op :  >  TRUE
+DEC : rv = 540, ov = -456
+RESULT: register b = 996
+
+Processing hnb against jf
+EVAL: rv = -735, tv = 671 op :  ==  FALSE
+
+Processing jf against v
+EVAL: rv = 6, tv = -1319 op :  <  FALSE
+
+Processing b against kfn
+EVAL: rv = -2628, tv = -3489 op :  ==  FALSE
+
+Processing jf against o
+EVAL: rv = 523, tv = 715 op :  <  TRUE
+INC : rv = -735, ov = 591
+RESULT: register jf = -144
+
+Processing jf against hnb
+EVAL: rv = -765, tv = -1004 op :  <  FALSE
+
+Processing z against fz
+EVAL: rv = -646, tv = -288 op :  !=  TRUE
+INC : rv = 1832, ov = -92
+RESULT: register z = 1740
+
+Processing fw against mf
+EVAL: rv = -266, tv = -428 op :  >=  TRUE
+INC : rv = -514, ov = 573
+RESULT: register fw = 59
+
+Processing bkd against uly
+EVAL: rv = 1170, tv = 1163 op :  >  TRUE
+DEC : rv = -2515, ov = -692
+RESULT: register bkd = -1823
+
+Processing q against uly
+EVAL: rv = 1170, tv = 1172 op :  <=  TRUE
+INC : rv = 976, ov = 898
+RESULT: register q = 1874
+
+Processing a against qur
+EVAL: rv = 221, tv = -554 op :  ==  FALSE
+
+Processing ehd against eje
+EVAL: rv = -2130, tv = -1379 op :  >=  FALSE
+
+Processing kfn against mf
+EVAL: rv = -266, tv = -425 op :  !=  TRUE
+DEC : rv = -2628, ov = -64
+RESULT: register kfn = -2564
+
+Processing oxv against a
+EVAL: rv = 1355, tv = 1162 op :  ==  FALSE
+
+Processing bkd against ehd
+EVAL: rv = 1124, tv = 593 op :  !=  TRUE
+DEC : rv = -1823, ov = -822
+RESULT: register bkd = -1001
+
+Processing hnb against cp
+EVAL: rv = -320, tv = -1186 op :  ==  FALSE
+
+Processing uly against fz
+EVAL: rv = -646, tv = -289 op :  >  FALSE
+
+Processing fz against yk
+EVAL: rv = 2060, tv = 2311 op :  >  FALSE
+
+Processing o against xn
+EVAL: rv = -988, tv = -448 op :  <  TRUE
+INC : rv = 523, ov = -146
+RESULT: register o = 377
+
+Processing yk against rny
+EVAL: rv = 2205, tv = 3742 op :  <  TRUE
+DEC : rv = 2060, ov = -17
+RESULT: register yk = 2077
+
+Processing dl against fw
+EVAL: rv = 59, tv = 2 op :  >=  TRUE
+INC : rv = 1371, ov = -899
+RESULT: register dl = 472
+
+Processing fz against fz
+EVAL: rv = -646, tv = -742 op :  <  FALSE
+
+Processing he against bkd
+EVAL: rv = -1001, tv = -605 op :  !=  TRUE
+INC : rv = -434, ov = 956
+RESULT: register he = 522
+
+Processing xn against hnb
+EVAL: rv = -765, tv = -1757 op :  >=  TRUE
+INC : rv = -988, ov = 448
+RESULT: register xn = -540
+
+Processing b against oxv
+EVAL: rv = -334, tv = -275 op :  <=  TRUE
+DEC : rv = 996, ov = -410
+RESULT: register b = 1406
+
+Processing mf against kfn
+EVAL: rv = -2564, tv = -3420 op :  <  FALSE
+
+Processing jf against xn
+EVAL: rv = -540, tv = -4 op :  >=  FALSE
+
+Processing yk against z
+EVAL: rv = 1740, tv = 3065 op :  ==  FALSE
+
+Processing a against ehd
+EVAL: rv = 1124, tv = 595 op :  ==  FALSE
+
+Processing he against fw
+EVAL: rv = 59, tv = 16 op :  <  FALSE
+
+Processing hnb against a
+EVAL: rv = 1355, tv = 1050 op :  >  TRUE
+INC : rv = -765, ov = 273
+RESULT: register hnb = -492
+
+Processing eje against ehd
+EVAL: rv = 1124, tv = 592 op :  !=  TRUE
+DEC : rv = -2130, ov = 259
+RESULT: register eje = -2389
+
+Processing qur against v
+EVAL: rv = 6, tv = -1319 op :  <  FALSE
+
+Processing oso against ehd
+EVAL: rv = 1124, tv = 602 op :  !=  TRUE
+DEC : rv = 1629, ov = 872
+RESULT: register oso = 757
+
+Processing bkd against q
+EVAL: rv = 1874, tv = 851 op :  ==  FALSE
+
+Processing b against eje
+EVAL: rv = -2389, tv = -1633 op :  >=  FALSE
+
+Processing uly against z
+EVAL: rv = 1740, tv = 3071 op :  ==  FALSE
+
+Processing b against b
+EVAL: rv = 1406, tv = 1004 op :  <=  FALSE
+
+Processing fz against eje
+EVAL: rv = -2389, tv = -1634 op :  <  TRUE
+INC : rv = -646, ov = 494
+RESULT: register fz = -152
+
+Processing uly against kfn
+EVAL: rv = -2564, tv = -3425 op :  ==  FALSE
+
+Processing z against o
+EVAL: rv = 377, tv = 569 op :  <=  TRUE
+DEC : rv = 1740, ov = -452
+RESULT: register z = 2192
+
+Processing q against fz
+EVAL: rv = -152, tv = 729 op :  !=  TRUE
+INC : rv = 1874, ov = -942
+RESULT: register q = 932
+
+Processing kfn against xn
+EVAL: rv = -540, tv = 3 op :  >  FALSE
+
+Processing hnb against he
+EVAL: rv = 522, tv = 2531 op :  ==  FALSE
+
+Processing b against kfn
+EVAL: rv = -2564, tv = -3425 op :  !=  TRUE
+INC : rv = 1406, ov = 808
+RESULT: register b = 2214
+
+Processing dl against jf
+EVAL: rv = -144, tv = 1454 op :  <  TRUE
+INC : rv = 472, ov = 588
+RESULT: register dl = 1060
+
+Processing he against hnb
+EVAL: rv = -492, tv = -733 op :  <  FALSE
+
+Processing qur against uly
+EVAL: rv = 1170, tv = 1265 op :  !=  TRUE
+DEC : rv = 221, ov = -497
+RESULT: register qur = 718
+
+Processing jf against hnb
+EVAL: rv = -492, tv = -733 op :  ==  FALSE
+
+Processing a against v
+EVAL: rv = 6, tv = -1327 op :  ==  FALSE
+
+Processing fw against v
+EVAL: rv = 6, tv = -1333 op :  >  TRUE
+INC : rv = 59, ov = -402
+RESULT: register fw = -343
+
+Processing qur against eje
+EVAL: rv = -2389, tv = -1636 op :  ==  FALSE
+
+Processing jf against jf
+EVAL: rv = -144, tv = 2127 op :  ==  FALSE
+
+Processing he against b
+EVAL: rv = 2214, tv = 1138 op :  >  TRUE
+DEC : rv = 522, ov = -575
+RESULT: register he = 1097
+
+Processing v against fw
+EVAL: rv = -343, tv = -397 op :  >=  TRUE
+INC : rv = 6, ov = -770
+RESULT: register v = -764
+
+Processing ehd against uly
+EVAL: rv = 1170, tv = 1263 op :  <=  TRUE
+INC : rv = 1124, ov = -839
+RESULT: register ehd = 285
+
+Processing uly against cp
+EVAL: rv = -320, tv = -1191 op :  !=  TRUE
+DEC : rv = 1170, ov = 606
+RESULT: register uly = 564
+
+Processing v against v
+EVAL: rv = -764, tv = -2103 op :  >=  TRUE
+DEC : rv = -764, ov = 933
+RESULT: register v = -1697
+
+Processing dl against qur
+EVAL: rv = 718, tv = -48 op :  <=  FALSE
+
+Processing b against bkd
+EVAL: rv = -1001, tv = -600 op :  ==  FALSE
+
+Processing xn against a
+EVAL: rv = 1355, tv = 497 op :  >  TRUE
+INC : rv = -540, ov = 503
+RESULT: register xn = -37
+
+Processing mf against yk
+EVAL: rv = 2077, tv = 2676 op :  >=  FALSE
+
+Processing mf against a
+EVAL: rv = 1355, tv = 500 op :  ==  FALSE
+
+Processing oso against oso
+EVAL: rv = 757, tv = 756 op :  <=  FALSE
+
+Processing z against rny
+EVAL: rv = 2205, tv = 3724 op :  <=  TRUE
+DEC : rv = 2192, ov = -962
+RESULT: register z = 3154
+
+Processing fz against oxv
+EVAL: rv = -334, tv = -280 op :  >=  FALSE
+
+Processing oxv against v
+EVAL: rv = -1697, tv = -3024 op :  >=  TRUE
+INC : rv = -334, ov = 380
+RESULT: register oxv = 46
+
+Processing dl against z
+EVAL: rv = 3154, tv = 3516 op :  >=  FALSE
+
+Processing b against ehd
+EVAL: rv = 285, tv = -251 op :  >=  TRUE
+DEC : rv = 2214, ov = 538
+RESULT: register b = 1676
+
+Processing he against mf
+EVAL: rv = -266, tv = 105 op :  <  TRUE
+DEC : rv = 1097, ov = -280
+RESULT: register he = 1377
+
+Processing ehd against ehd
+EVAL: rv = 285, tv = -242 op :  <=  FALSE
+
+Processing mf against yk
+EVAL: rv = 2077, tv = 2687 op :  <  TRUE
+INC : rv = -266, ov = 592
+RESULT: register mf = 326
+
+Processing oxv against cp
+EVAL: rv = -320, tv = -1186 op :  ==  FALSE
+
+Processing dl against eje
+EVAL: rv = -2389, tv = -1632 op :  >  FALSE
+
+Processing z against qur
+EVAL: rv = 718, tv = -52 op :  <  FALSE
+
+Processing oxv against qur
+EVAL: rv = 718, tv = -48 op :  <=  FALSE
+
+Processing jf against bkd
+EVAL: rv = -1001, tv = -609 op :  >  FALSE
+
+Processing rny against eje
+EVAL: rv = -2389, tv = -1639 op :  >  FALSE
+
+Processing uly against qur
+EVAL: rv = 718, tv = -64 op :  >=  TRUE
+INC : rv = 564, ov = 888
+RESULT: register uly = 1452
+
+Processing a against z
+EVAL: rv = 3154, tv = 2927 op :  <  FALSE
+
+Processing fz against fw
+EVAL: rv = -343, tv = -399 op :  >=  TRUE
+INC : rv = -152, ov = -453
+RESULT: register fz = -605
+
+Processing uly against jf
+EVAL: rv = -144, tv = 3144 op :  >  FALSE
+
+Processing kfn against hnb
+EVAL: rv = -492, tv = -736 op :  >=  TRUE
+INC : rv = -2564, ov = -679
+RESULT: register kfn = -3243
+
+Processing hnb against fz
+EVAL: rv = -605, tv = 559 op :  ==  FALSE
+
+Processing xn against qur
+EVAL: rv = 718, tv = -56 op :  !=  TRUE
+INC : rv = -37, ov = 957
+RESULT: register xn = 920
+
+Processing bkd against q
+EVAL: rv = 932, tv = -99 op :  >  TRUE
+DEC : rv = -1001, ov = 793
+RESULT: register bkd = -1794
+
+Processing a against cp
+EVAL: rv = -320, tv = -1180 op :  !=  TRUE
+INC : rv = 1355, ov = 533
+RESULT: register a = 1888
+
+Processing yk against q
+EVAL: rv = 932, tv = -96 op :  !=  TRUE
+INC : rv = 2077, ov = -231
+RESULT: register yk = 1846
+
+Processing bkd against oxv
+EVAL: rv = 46, tv = -823 op :  <=  FALSE
+
+Processing a against yk
+EVAL: rv = 1846, tv = 2452 op :  !=  TRUE
+INC : rv = 1888, ov = -851
+RESULT: register a = 1037
+
+Processing z against cp
+EVAL: rv = -320, tv = -1189 op :  >  TRUE
+DEC : rv = 3154, ov = 614
+RESULT: register z = 2540
+
+Processing a against bkd
+EVAL: rv = -1794, tv = -1460 op :  !=  TRUE
+DEC : rv = 1037, ov = 444
+RESULT: register a = 593
+
+Processing uly against fz
+EVAL: rv = -605, tv = 556 op :  >  FALSE
+
+Processing eje against rny
+EVAL: rv = 2205, tv = 4137 op :  <  TRUE
+INC : rv = -2389, ov = 245
+RESULT: register eje = -2144
+
+Processing fw against oso
+EVAL: rv = 757, tv = 754 op :  >=  TRUE
+DEC : rv = -343, ov = -254
+RESULT: register fw = -89
+
+Processing fz against yk
+EVAL: rv = 1846, tv = 2452 op :  !=  TRUE
+INC : rv = -605, ov = -772
+RESULT: register fz = -1377
+
+Processing fz against oso
+EVAL: rv = 757, tv = 766 op :  <  TRUE
+DEC : rv = -1377, ov = -621
+RESULT: register fz = -756
+
+Processing ehd against q
+EVAL: rv = 932, tv = -101 op :  ==  FALSE
+
+Processing cp against oso
+EVAL: rv = 757, tv = 748 op :  <  FALSE
+
+Processing kfn against a
+EVAL: rv = 593, tv = 592 op :  !=  TRUE
+INC : rv = -3243, ov = 758
+RESULT: register kfn = -2485
+
+Processing z against eje
+EVAL: rv = -2144, tv = -1400 op :  <  TRUE
+DEC : rv = 2540, ov = 459
+RESULT: register z = 2081
+
+Processing oxv against rny
+EVAL: rv = 2205, tv = 4136 op :  <=  TRUE
+DEC : rv = 46, ov = -425
+RESULT: register oxv = 471
+
+Processing kfn against dl
+EVAL: rv = 1060, tv = 2550 op :  !=  TRUE
+INC : rv = -2485, ov = 880
+RESULT: register kfn = -1605
+
+Processing ehd against xn
+EVAL: rv = 920, tv = 1453 op :  <  TRUE
+INC : rv = 285, ov = -35
+RESULT: register ehd = 250
+
+Processing uly against jf
+EVAL: rv = -144, tv = 3147 op :  <=  TRUE
+DEC : rv = 1452, ov = -935
+RESULT: register uly = 2387
+
+Processing dl against oso
+EVAL: rv = 757, tv = 761 op :  >=  FALSE
+
+Processing b against a
+EVAL: rv = 593, tv = 589 op :  ==  FALSE
+
+Processing mf against oxv
+EVAL: rv = 471, tv = -410 op :  <  FALSE
+
+Processing v against oso
+EVAL: rv = 757, tv = 749 op :  >=  TRUE
+INC : rv = -1697, ov = -82
+RESULT: register v = -1779
+
+Processing mf against q
+EVAL: rv = 932, tv = -102 op :  >=  TRUE
+INC : rv = 326, ov = -87
+RESULT: register mf = 239
+
+Processing z against hnb
+EVAL: rv = -492, tv = -600 op :  ==  FALSE
+
+Processing jf against qur
+EVAL: rv = 718, tv = -56 op :  <=  FALSE
+
+Processing cp against v
+EVAL: rv = -1779, tv = -3115 op :  !=  TRUE
+INC : rv = -320, ov = 565
+RESULT: register cp = 245
+
+Processing fz against hnb
+EVAL: rv = -492, tv = -602 op :  ==  FALSE
+
+Processing fz against mf
+EVAL: rv = 239, tv = 618 op :  <=  TRUE
+DEC : rv = -756, ov = -215
+RESULT: register fz = -541
+
+Processing ehd against mf
+EVAL: rv = 239, tv = 617 op :  >  FALSE
+
+Processing dl against a
+EVAL: rv = 593, tv = 591 op :  <=  FALSE
+
+Processing rny against eje
+EVAL: rv = -2144, tv = -1391 op :  ==  FALSE
+
+Processing qur against rny
+EVAL: rv = 2205, tv = 4251 op :  !=  TRUE
+INC : rv = 718, ov = 683
+RESULT: register qur = 1401
+
+Processing rny against eje
+EVAL: rv = -2144, tv = -1391 op :  ==  FALSE
+
+Processing fw against z
+EVAL: rv = 2081, tv = 2331 op :  <  TRUE
+DEC : rv = -89, ov = -641
+RESULT: register fw = 552
+
+Processing rny against cp
+EVAL: rv = 245, tv = -616 op :  <  FALSE
+
+Processing hnb against xn
+EVAL: rv = 920, tv = 1456 op :  >=  FALSE
+
+Processing kfn against ehd
+EVAL: rv = 250, tv = -692 op :  !=  TRUE
+DEC : rv = -1605, ov = 829
+RESULT: register kfn = -2434
+
+Processing rny against fw
+EVAL: rv = 552, tv = 505 op :  <  FALSE
+
+Processing xn against qur
+EVAL: rv = 1401, tv = -57 op :  !=  TRUE
+INC : rv = 920, ov = -410
+RESULT: register xn = 510
+
+Processing eje against ehd
+EVAL: rv = 250, tv = -690 op :  !=  TRUE
+INC : rv = -2144, ov = 255
+RESULT: register eje = -1889
+
+Processing mf against v
+EVAL: rv = -1779, tv = -3109 op :  <  FALSE
+
+Processing dl against eje
+EVAL: rv = -1889, tv = -1134 op :  >  FALSE
+
+Processing rny against z
+EVAL: rv = 2081, tv = 2323 op :  >=  FALSE
+
+Processing ehd against rny
+EVAL: rv = 2205, tv = 4540 op :  >  FALSE
+
+Processing uly against z
+EVAL: rv = 2081, tv = 2314 op :  >=  FALSE
+
+Processing eje against he
+EVAL: rv = 1377, tv = 2531 op :  ==  FALSE
+
+Processing z against eje
+EVAL: rv = -1889, tv = -917 op :  >  FALSE
+
+Processing b against oxv
+EVAL: rv = 471, tv = -400 op :  <=  FALSE
+
+Processing o against jf
+EVAL: rv = -144, tv = 2410 op :  >=  FALSE
+
+Processing dl against ehd
+EVAL: rv = 250, tv = -1477 op :  !=  TRUE
+DEC : rv = 1060, ov = 162
+RESULT: register dl = 898
+
+Processing fw against z
+EVAL: rv = 2081, tv = 2354 op :  !=  TRUE
+DEC : rv = 552, ov = -901
+RESULT: register fw = 1453
+
+Processing qur against oso
+EVAL: rv = 757, tv = 763 op :  <=  TRUE
+DEC : rv = 1401, ov = 724
+RESULT: register qur = 677
+
+Processing oxv against a
+EVAL: rv = 593, tv = 598 op :  <  TRUE
+DEC : rv = 471, ov = -778
+RESULT: register oxv = 1249
+
+Processing eje against qur
+EVAL: rv = 677, tv = -777 op :  <  FALSE
+
+Processing oxv against fz
+EVAL: rv = -541, tv = 624 op :  ==  FALSE
+
+Processing kfn against a
+EVAL: rv = 593, tv = 589 op :  ==  FALSE
+
+Processing eje against fz
+EVAL: rv = -541, tv = 625 op :  <  TRUE
+DEC : rv = -1889, ov = -38
+RESULT: register eje = -1851
+
+Processing z against qur
+EVAL: rv = 677, tv = -788 op :  ==  FALSE
+
+Processing fw against fz
+EVAL: rv = -541, tv = 624 op :  >  FALSE
+
+Processing uly against dl
+EVAL: rv = 898, tv = 1710 op :  !=  TRUE
+DEC : rv = 2387, ov = -132
+RESULT: register uly = 2519
+
+Processing uly against xn
+EVAL: rv = 510, tv = 1456 op :  ==  FALSE
+
+Processing z against z
+EVAL: rv = 2081, tv = 2353 op :  ==  FALSE
+
+Processing bkd against oxv
+EVAL: rv = 1249, tv = 846 op :  ==  FALSE
+
+Processing oso against z
+EVAL: rv = 2081, tv = 2694 op :  <  TRUE
+DEC : rv = 757, ov = 198
+RESULT: register oso = 559
+
+Processing b against a
+EVAL: rv = 593, tv = 589 op :  ==  FALSE
+
+Processing eje against rny
+EVAL: rv = 2205, tv = 4542 op :  >  FALSE
+
+Processing eje against cp
+EVAL: rv = 245, tv = -621 op :  !=  TRUE
+INC : rv = -1851, ov = 705
+RESULT: register eje = -1146
+
+Processing a against eje
+EVAL: rv = -1146, tv = 317 op :  ==  FALSE
+
+Processing eje against bkd
+EVAL: rv = -1794, tv = -1461 op :  <  TRUE
+DEC : rv = -1146, ov = -814
+RESULT: register eje = -332
+
+Processing jf against xn
+EVAL: rv = 510, tv = 1451 op :  <  TRUE
+DEC : rv = -144, ov = -361
+RESULT: register jf = 217
+
+Processing oxv against he
+EVAL: rv = 1377, tv = 2534 op :  <=  TRUE
+INC : rv = 1249, ov = 982
+RESULT: register oxv = 2231
+
+Processing cp against v
+EVAL: rv = -1779, tv = -3105 op :  <=  FALSE
+
+Processing z against eje
+EVAL: rv = -332, tv = 1130 op :  <=  TRUE
+INC : rv = 2081, ov = -818
+RESULT: register z = 1263
+
+Processing z against dl
+EVAL: rv = 898, tv = 1710 op :  ==  FALSE
+
+Processing fz against eje
+EVAL: rv = -332, tv = 1119 op :  >=  FALSE
+
+Processing bkd against rny
+EVAL: rv = 2205, tv = 4549 op :  ==  FALSE
+
+Processing ehd against xn
+EVAL: rv = 510, tv = 1452 op :  <  TRUE
+DEC : rv = 250, ov = -385
+RESULT: register ehd = 635
+
+Processing bkd against oxv
+EVAL: rv = 2231, tv = 1829 op :  <  FALSE
+
+Processing uly against dl
+EVAL: rv = 898, tv = 1724 op :  !=  TRUE
+DEC : rv = 2519, ov = 726
+RESULT: register uly = 1793
+
+Processing oso against a
+EVAL: rv = 593, tv = 596 op :  <=  TRUE
+DEC : rv = 559, ov = -244
+RESULT: register oso = 803
+
+Processing uly against kfn
+EVAL: rv = -2434, tv = -2314 op :  <  TRUE
+INC : rv = 1793, ov = -662
+RESULT: register uly = 1131
+
+Processing z against ehd
+EVAL: rv = 635, tv = -1461 op :  <  FALSE
+
+Processing b against kfn
+EVAL: rv = -2434, tv = -2305 op :  ==  FALSE
+
+Processing eje against dl
+EVAL: rv = 898, tv = 1710 op :  >=  FALSE
+
+Processing fz against o
+EVAL: rv = 377, tv = 1497 op :  <=  TRUE
+INC : rv = -541, ov = 721
+RESULT: register fz = 180
+
+Processing o against a
+EVAL: rv = 593, tv = 599 op :  <  TRUE
+DEC : rv = 377, ov = 377
+RESULT: register o = 0
+
+Processing ehd against o
+EVAL: rv = 0, tv = 1107 op :  <  TRUE
+INC : rv = 635, ov = -556
+RESULT: register ehd = 79
+
+Processing dl against yk
+EVAL: rv = 1846, tv = 2451 op :  !=  TRUE
+INC : rv = 898, ov = -456
+RESULT: register dl = 442
+
+Processing bkd against uly
+EVAL: rv = 1131, tv = 2458 op :  >  FALSE
+
+Processing jf against fz
+EVAL: rv = 180, tv = 1510 op :  >=  FALSE
+
+Processing fz against yk
+EVAL: rv = 1846, tv = 2452 op :  !=  TRUE
+INC : rv = 180, ov = 27
+RESULT: register fz = 207
+
+Processing fw against yk
+EVAL: rv = 1846, tv = 2452 op :  ==  FALSE
+
+Processing he against rny
+EVAL: rv = 2205, tv = 4555 op :  ==  FALSE
+
+Processing ehd against xn
+EVAL: rv = 510, tv = 1448 op :  >=  FALSE
+
+Processing ehd against hnb
+EVAL: rv = -492, tv = -452 op :  >=  FALSE
+
+Processing rny against qur
+EVAL: rv = 677, tv = -779 op :  !=  TRUE
+INC : rv = 2205, ov = 515
+RESULT: register rny = 2720
+
+Processing bkd against bkd
+EVAL: rv = -1794, tv = -1504 op :  <  TRUE
+INC : rv = -1794, ov = 220
+RESULT: register bkd = -1574
+
+Processing eje against oso
+EVAL: rv = 803, tv = 1009 op :  <  TRUE
+INC : rv = -332, ov = 996
+RESULT: register eje = 664
+
+Processing bkd against uly
+EVAL: rv = 1131, tv = 2467 op :  !=  TRUE
+DEC : rv = -1574, ov = 610
+RESULT: register bkd = -2184
+
+Processing eje against v
+EVAL: rv = -1779, tv = -3102 op :  <  FALSE
+
+Processing oxv against ehd
+EVAL: rv = 79, tv = -56 op :  ==  FALSE
+
+Processing he against bkd
+EVAL: rv = -2184, tv = -1906 op :  >=  FALSE
+
+Processing rny against yk
+EVAL: rv = 1846, tv = 2452 op :  <=  TRUE
+INC : rv = 2720, ov = -470
+RESULT: register rny = 2250
+
+Processing he against dl
+EVAL: rv = 442, tv = 1265 op :  >  FALSE
+
+Processing dl against kfn
+EVAL: rv = -2434, tv = -2305 op :  ==  FALSE
+
+Processing qur against a
+EVAL: rv = 593, tv = 585 op :  <  FALSE
+
+Processing mf against b
+EVAL: rv = 1676, tv = 1038 op :  >  TRUE
+DEC : rv = 239, ov = 729
+RESULT: register mf = -490
+
+Processing yk against b
+EVAL: rv = 1676, tv = 1053 op :  !=  TRUE
+INC : rv = 1846, ov = 548
+RESULT: register yk = 2394
+
+Processing he against ehd
+EVAL: rv = 79, tv = -48 op :  <  FALSE
+
+Processing oxv against b
+EVAL: rv = 1676, tv = 1042 op :  >  TRUE
+INC : rv = 2231, ov = -593
+RESULT: register oxv = 1638
+
+Processing rny against fz
+EVAL: rv = 207, tv = 1500 op :  >  FALSE
+
+Processing jf against a
+EVAL: rv = 593, tv = 590 op :  <  FALSE
+
+Processing cp against kfn
+EVAL: rv = -2434, tv = -2296 op :  <=  TRUE
+DEC : rv = 245, ov = -102
+RESULT: register cp = 347
+
+Processing he against uly
+EVAL: rv = 1131, tv = 2459 op :  >  FALSE
+
+Processing kfn against he
+EVAL: rv = 1377, tv = 2339 op :  >=  FALSE
+
+Processing xn against mf
+EVAL: rv = -490, tv = -9 op :  !=  TRUE
+DEC : rv = 510, ov = -524
+RESULT: register xn = 1034
+
+Processing z against ehd
+EVAL: rv = 79, tv = -61 op :  <=  FALSE
+
+Processing eje against yk
+EVAL: rv = 2394, tv = 3003 op :  <=  TRUE
+INC : rv = 664, ov = 60
+RESULT: register eje = 724
+
+Processing yk against yk
+EVAL: rv = 2394, tv = 3007 op :  >  FALSE
+
+Processing cp against yk
+EVAL: rv = 2394, tv = 3006 op :  <=  TRUE
+DEC : rv = 347, ov = 704
+RESULT: register cp = -357
+
+Processing bkd against v
+EVAL: rv = -1779, tv = -3104 op :  <=  FALSE
+
+Processing a against uly
+EVAL: rv = 1131, tv = 2476 op :  >=  FALSE
+
+Processing z against a
+EVAL: rv = 593, tv = 591 op :  !=  TRUE
+INC : rv = 1263, ov = 313
+RESULT: register z = 1576
+
+Processing rny against mf
+EVAL: rv = -490, tv = -9 op :  ==  FALSE
+
+Processing a against rny
+EVAL: rv = 2250, tv = 6486 op :  <=  TRUE
+INC : rv = 593, ov = 897
+RESULT: register a = 1490
+
+Processing cp against qur
+EVAL: rv = 677, tv = -789 op :  >=  TRUE
+INC : rv = -357, ov = 644
+RESULT: register cp = 287
+
+Processing a against v
+EVAL: rv = -1779, tv = -3112 op :  >=  TRUE
+DEC : rv = 1490, ov = 659
+RESULT: register a = 831
+
+Processing v against ehd
+EVAL: rv = 79, tv = -68 op :  <=  FALSE
+
+Processing fw against bkd
+EVAL: rv = -2184, tv = -2270 op :  >=  TRUE
+DEC : rv = 1453, ov = -172
+RESULT: register fw = 1625
+
+Processing yk against mf
+EVAL: rv = -490, tv = -9 op :  ==  FALSE
+
+Processing o against yk
+EVAL: rv = 2394, tv = 3701 op :  ==  FALSE
+
+Processing q against cp
+EVAL: rv = 287, tv = 51 op :  ==  FALSE
+
+Processing hnb against dl
+EVAL: rv = 442, tv = 1796 op :  ==  FALSE
+
+Processing yk against q
+EVAL: rv = 932, tv = 547 op :  ==  FALSE
+
+Processing oxv against jf
+EVAL: rv = 217, tv = 1113 op :  >=  FALSE
+
+Processing oxv against he
+EVAL: rv = 1377, tv = 2347 op :  <  TRUE
+DEC : rv = 1638, ov = 650
+RESULT: register oxv = 988
+
+Processing oso against z
+EVAL: rv = 1576, tv = 2277 op :  <=  TRUE
+DEC : rv = 803, ov = 123
+RESULT: register oso = 680
+
+Processing dl against q
+EVAL: rv = 932, tv = 539 op :  <  FALSE
+
+Processing oso against cp
+EVAL: rv = 287, tv = 41 op :  >  TRUE
+INC : rv = 680, ov = -190
+RESULT: register oso = 490
+
+Processing eje against oso
+EVAL: rv = 490, tv = 696 op :  >=  FALSE
+
+Processing z against bkd
+EVAL: rv = -2184, tv = -2257 op :  <=  FALSE
+
+Processing oxv against qur
+EVAL: rv = 677, tv = -777 op :  <  FALSE
+
+Processing fw against eje
+EVAL: rv = 724, tv = 1244 op :  >=  FALSE
+
+Processing b against yk
+EVAL: rv = 2394, tv = 3686 op :  >=  FALSE
+
+Processing oso against bkd
+EVAL: rv = -2184, tv = -2258 op :  >=  TRUE
+INC : rv = 490, ov = -512
+RESULT: register oso = -22
+
+Processing dl against v
+EVAL: rv = -1779, tv = -3102 op :  <  FALSE
+
+Processing he against b
+EVAL: rv = 1676, tv = 1616 op :  <=  FALSE
+
+Processing uly against cp
+EVAL: rv = 287, tv = 49 op :  >=  TRUE
+INC : rv = 1131, ov = -214
+RESULT: register uly = 917
+
+Processing v against oso
+EVAL: rv = -22, tv = 696 op :  <  TRUE
+DEC : rv = -1779, ov = -131
+RESULT: register v = -1648
+
+Processing he against jf
+EVAL: rv = 217, tv = 1118 op :  <  TRUE
+INC : rv = 1377, ov = -440
+RESULT: register he = 937
+
+Processing bkd against fz
+EVAL: rv = 207, tv = 1510 op :  >=  FALSE
+
+Processing xn against oso
+EVAL: rv = -22, tv = 697 op :  <=  TRUE
+INC : rv = 1034, ov = -235
+RESULT: register xn = 799
+
+Processing a against uly
+EVAL: rv = 917, tv = 2261 op :  <=  TRUE
+INC : rv = 831, ov = 808
+RESULT: register a = 1639
+
+Processing jf against fw
+EVAL: rv = 1625, tv = 1239 op :  <  FALSE
+
+Processing cp against oso
+EVAL: rv = -22, tv = 680 op :  >=  FALSE
+
+Processing fz against oso
+EVAL: rv = -22, tv = 696 op :  <  TRUE
+INC : rv = 207, ov = -542
+RESULT: register fz = -335
+
+Processing dl against mf
+EVAL: rv = -490, tv = -17 op :  !=  TRUE
+INC : rv = 442, ov = 411
+RESULT: register dl = 853
+
+Processing b against cp
+EVAL: rv = 287, tv = 724 op :  >=  FALSE
+
+Processing qur against oxv
+EVAL: rv = 988, tv = 205 op :  <=  FALSE
+
+Processing fz against bkd
+EVAL: rv = -2184, tv = -2287 op :  <  FALSE
+
+Processing oxv against eje
+EVAL: rv = 724, tv = 1240 op :  >  FALSE
+
+Processing qur against uly
+EVAL: rv = 917, tv = 2245 op :  >  FALSE
+
+Processing kfn against z
+EVAL: rv = 1576, tv = 1428 op :  <=  FALSE
+
+Processing dl against mf
+EVAL: rv = -490, tv = -2 op :  <=  TRUE
+INC : rv = 853, ov = -794
+RESULT: register dl = 59
+
+Processing eje against v
+EVAL: rv = -1648, tv = -2979 op :  <  FALSE
+
+Processing oso against dl
+EVAL: rv = 59, tv = 2022 op :  >=  FALSE
+
+Processing he against xn
+EVAL: rv = 799, tv = 1230 op :  <=  TRUE
+DEC : rv = 937, ov = 978
+RESULT: register he = -41
+
+Processing o against a
+EVAL: rv = 1639, tv = 1634 op :  <=  FALSE
+
+Processing o against v
+EVAL: rv = -1648, tv = -2987 op :  >  TRUE
+INC : rv = 0, ov = 699
+RESULT: register o = 699
+
+Processing fz against b
+EVAL: rv = 1676, tv = 2527 op :  !=  TRUE
+INC : rv = -335, ov = -433
+RESULT: register fz = -768
+
+Processing z against bkd
+EVAL: rv = -2184, tv = -2272 op :  ==  FALSE
+
+Processing b against b
+EVAL: rv = 1676, tv = 2531 op :  <  TRUE
+INC : rv = 1676, ov = -74
+RESULT: register b = 1602
+
+Processing qur against eje
+EVAL: rv = 724, tv = 1469 op :  ==  FALSE
+
+Processing rny against hnb
+EVAL: rv = -492, tv = -1334 op :  >  TRUE
+INC : rv = 2250, ov = -672
+RESULT: register rny = 1578
+
+Processing cp against fz
+EVAL: rv = -768, tv = 961 op :  >  FALSE
+
+Processing uly against bkd
+EVAL: rv = -2184, tv = -2282 op :  >=  TRUE
+DEC : rv = 917, ov = -766
+RESULT: register uly = 1683
+
+Processing uly against uly
+EVAL: rv = 1683, tv = 3028 op :  <  TRUE
+DEC : rv = 1683, ov = 206
+RESULT: register uly = 1477
+
+Processing b against fz
+EVAL: rv = -768, tv = 968 op :  ==  FALSE
+
+Processing b against qur
+EVAL: rv = 677, tv = 1154 op :  <  TRUE
+DEC : rv = 1602, ov = -612
+RESULT: register b = 2214
+
+Processing eje against he
+EVAL: rv = -41, tv = 1059 op :  >  FALSE
+
+Processing eje against yk
+EVAL: rv = 2394, tv = 3695 op :  <=  TRUE
+DEC : rv = 724, ov = -705
+RESULT: register eje = 1429
+
+Processing q against z
+EVAL: rv = 1576, tv = 1443 op :  >  TRUE
+DEC : rv = 932, ov = -764
+RESULT: register q = 1696
+
+Processing rny against oso
+EVAL: rv = -22, tv = 552 op :  <=  TRUE
+DEC : rv = 1578, ov = 512
+RESULT: register rny = 1066
+
+Processing rny against fw
+EVAL: rv = 1625, tv = 1236 op :  <=  FALSE
+
+Processing he against uly
+EVAL: rv = 1477, tv = 2815 op :  !=  TRUE
+DEC : rv = -41, ov = 3
+RESULT: register he = -44
+
+Processing rny against dl
+EVAL: rv = 59, tv = 2019 op :  >=  FALSE
+
+Processing fw against rny
+EVAL: rv = 1066, tv = 5940 op :  >=  FALSE
+
+Processing he against rny
+EVAL: rv = 1066, tv = 5945 op :  ==  FALSE
+
+Processing rny against uly
+EVAL: rv = 1477, tv = 2814 op :  ==  FALSE
+
+Processing z against yk
+EVAL: rv = 2394, tv = 3699 op :  <  TRUE
+INC : rv = 1576, ov = 522
+RESULT: register z = 2098
+
+Processing mf against yk
+EVAL: rv = 2394, tv = 3686 op :  >  FALSE
+
+Processing oxv against dl
+EVAL: rv = 59, tv = 2020 op :  ==  FALSE
+
+Processing mf against rny
+EVAL: rv = 1066, tv = 6613 op :  >  FALSE
+
+Processing bkd against qur
+EVAL: rv = 677, tv = 1151 op :  <=  TRUE
+DEC : rv = -2184, ov = 966
+RESULT: register bkd = -3150
+
+Processing xn against oso
+EVAL: rv = -22, tv = 555 op :  !=  TRUE
+DEC : rv = 799, ov = -808
+RESULT: register xn = 1607
+
+Processing oxv against b
+EVAL: rv = 2214, tv = 3061 op :  >  FALSE
+
+Processing fw against oso
+EVAL: rv = -22, tv = 544 op :  <  TRUE
+DEC : rv = 1625, ov = -140
+RESULT: register fw = 1765
+
+Processing he against q
+EVAL: rv = 1696, tv = 540 op :  <=  FALSE
+
+Processing he against oso
+EVAL: rv = -22, tv = 553 op :  <=  TRUE
+DEC : rv = -44, ov = 236
+RESULT: register he = -280
+
+Processing oxv against z
+EVAL: rv = 2098, tv = 1961 op :  >  TRUE
+DEC : rv = 988, ov = 117
+RESULT: register oxv = 871
+
+Processing fz against cp
+EVAL: rv = 287, tv = 218 op :  <=  FALSE
+
+Processing v against b
+EVAL: rv = 2214, tv = 3056 op :  !=  TRUE
+DEC : rv = -1648, ov = -451
+RESULT: register v = -1197
+
+Processing qur against uly
+EVAL: rv = 1477, tv = 2805 op :  >  FALSE
+
+Processing mf against cp
+EVAL: rv = 287, tv = 216 op :  ==  FALSE
+
+Processing b against cp
+EVAL: rv = 287, tv = 220 op :  <  FALSE
+
+Processing q against z
+EVAL: rv = 2098, tv = 1946 op :  >  TRUE
+DEC : rv = 1696, ov = 702
+RESULT: register q = 994
+
+Processing rny against rny
+EVAL: rv = 1066, tv = 6619 op :  ==  FALSE
+
+Processing uly against mf
+EVAL: rv = -490, tv = -608 op :  <=  FALSE
+
+Processing q against yk
+EVAL: rv = 2394, tv = 3682 op :  >  FALSE
+
+Processing mf against yk
+EVAL: rv = 2394, tv = 3701 op :  >  FALSE
+
+Processing z against q
+EVAL: rv = 994, tv = -414 op :  <  FALSE
+
+Processing jf against oxv
+EVAL: rv = 871, tv = 3 op :  >=  TRUE
+INC : rv = 217, ov = -571
+RESULT: register jf = -354
+
+Processing rny against he
+EVAL: rv = -280, tv = 283 op :  >=  FALSE
+
+Processing cp against yk
+EVAL: rv = 2394, tv = 3692 op :  !=  TRUE
+DEC : rv = 287, ov = -355
+RESULT: register cp = 642
+
+Processing kfn against fz
+EVAL: rv = -768, tv = 717 op :  >  FALSE
+
+Processing jf against jf
+EVAL: rv = -354, tv = -40 op :  !=  TRUE
+INC : rv = -354, ov = -102
+RESULT: register jf = -456
+
+Processing he against oxv
+EVAL: rv = 871, tv = 7 op :  >=  TRUE
+DEC : rv = -280, ov = -728
+RESULT: register he = 448
+
+Processing kfn against mf
+EVAL: rv = -490, tv = -604 op :  <  FALSE
+
+Processing mf against uly
+EVAL: rv = 1477, tv = 3018 op :  <  TRUE
+DEC : rv = -490, ov = -567
+RESULT: register mf = 77
+
+Processing z against jf
+EVAL: rv = -456, tv = -132 op :  <=  TRUE
+INC : rv = 2098, ov = -618
+RESULT: register z = 1480
+
+Processing a against he
+EVAL: rv = 448, tv = 1015 op :  ==  FALSE
+
+Processing q against z
+EVAL: rv = 1480, tv = 1332 op :  >=  TRUE
+INC : rv = 994, ov = 817
+RESULT: register q = 1811
+
+Processing a against fw
+EVAL: rv = 1765, tv = 1710 op :  >  TRUE
+INC : rv = 1639, ov = 333
+RESULT: register a = 1972
+
+Processing v against fz
+EVAL: rv = -768, tv = 717 op :  !=  TRUE
+DEC : rv = -1197, ov = 36
+RESULT: register v = -1233
+
+Processing eje against jf
+EVAL: rv = -456, tv = -127 op :  <  TRUE
+INC : rv = 1429, ov = -93
+RESULT: register eje = 1336
+
+Processing oxv against a
+EVAL: rv = 1972, tv = 659 op :  <  FALSE
+
+Processing kfn against oso
+EVAL: rv = -22, tv = 540 op :  !=  TRUE
+INC : rv = -2434, ov = 390
+RESULT: register kfn = -2044
+
+Processing v against q
+EVAL: rv = 1811, tv = 409 op :  >  TRUE
+INC : rv = -1233, ov = 704
+RESULT: register v = -529
+
+Processing ehd against oxv
+EVAL: rv = 871, tv = 709 op :  !=  TRUE
+DEC : rv = 79, ov = 390
+RESULT: register ehd = -311
+
+Processing o against v
+EVAL: rv = -529, tv = -1858 op :  <  FALSE
+
+Processing xn against uly
+EVAL: rv = 1477, tv = 3005 op :  >=  FALSE
+
+Processing jf against a
+EVAL: rv = 1972, tv = 649 op :  >=  TRUE
+DEC : rv = -456, ov = 56
+RESULT: register jf = -512
+
+Processing oso against a
+EVAL: rv = 1972, tv = 662 op :  <  FALSE
+
+Processing bkd against fw
+EVAL: rv = 1765, tv = 1695 op :  ==  FALSE
+
+Processing oxv against oso
+EVAL: rv = -22, tv = 552 op :  !=  TRUE
+DEC : rv = 871, ov = -112
+RESULT: register oxv = 983
+
+Processing mf against rny
+EVAL: rv = 1066, tv = 5279 op :  >  FALSE
+
+Processing fz against qur
+EVAL: rv = 677, tv = 1687 op :  >  FALSE
+
+Processing bkd against fw
+EVAL: rv = 1765, tv = 1704 op :  ==  FALSE
+
+Processing z against oso
+EVAL: rv = -22, tv = 547 op :  >=  FALSE
+
+Processing o against eje
+EVAL: rv = 1336, tv = 2081 op :  ==  FALSE
+
+Processing uly against o
+EVAL: rv = 699, tv = 1911 op :  <  TRUE
+DEC : rv = 1477, ov = 77
+RESULT: register uly = 1400
+
+Processing eje against dl
+EVAL: rv = 59, tv = 2032 op :  <  TRUE
+INC : rv = 1336, ov = 152
+RESULT: register eje = 1488
+
+Processing o against b
+EVAL: rv = 2214, tv = 3923 op :  ==  FALSE
+
+Processing dl against fz
+EVAL: rv = -768, tv = 724 op :  ==  FALSE
+
+Processing ehd against z
+EVAL: rv = 1480, tv = 374 op :  !=  TRUE
+INC : rv = -311, ov = 776
+RESULT: register ehd = 465
+
+Processing yk against uly
+EVAL: rv = 1400, tv = 2943 op :  <  TRUE
+INC : rv = 2394, ov = -533
+RESULT: register yk = 1861
+
+Processing q against rny
+EVAL: rv = 1066, tv = 5281 op :  ==  FALSE
+
+Processing kfn against fz
+EVAL: rv = -768, tv = 724 op :  >=  FALSE
+
+Processing cp against bkd
+EVAL: rv = -3150, tv = -2551 op :  >=  FALSE
+
+Processing q against v
+EVAL: rv = -529, tv = -1862 op :  ==  FALSE
+
+Processing z against kfn
+EVAL: rv = -2044, tv = -427 op :  <=  TRUE
+INC : rv = 1480, ov = -715
+RESULT: register z = 765
+
+Processing yk against z
+EVAL: rv = 765, tv = -345 op :  !=  TRUE
+DEC : rv = 1861, ov = 427
+RESULT: register yk = 1434
+
+Processing xn against oxv
+EVAL: rv = 983, tv = 828 op :  >  TRUE
+DEC : rv = 1607, ov = 374
+RESULT: register xn = 1233
+
+Processing a against oxv
+EVAL: rv = 983, tv = 825 op :  <=  FALSE
+
+Processing xn against a
+EVAL: rv = 1972, tv = 1581 op :  !=  TRUE
+DEC : rv = 1233, ov = -532
+RESULT: register xn = 1765
+
+Processing rny against b
+EVAL: rv = 2214, tv = 3932 op :  <=  TRUE
+DEC : rv = 1066, ov = 308
+RESULT: register rny = 758
+
+Processing eje against v
+EVAL: rv = -529, tv = -1862 op :  ==  FALSE
+
+Processing oso against jf
+EVAL: rv = -512, tv = -197 op :  >=  FALSE
+
+Processing mf against o
+EVAL: rv = 699, tv = 2083 op :  >=  FALSE
+
+Processing o against qur
+EVAL: rv = 677, tv = 1691 op :  !=  TRUE
+INC : rv = 699, ov = 558
+RESULT: register o = 1257
+
+Processing oxv against dl
+EVAL: rv = 59, tv = 1664 op :  ==  FALSE
+
+Processing xn against fw
+EVAL: rv = 1765, tv = 1711 op :  <=  FALSE
+
+Processing uly against ehd
+EVAL: rv = 465, tv = -64 op :  <=  FALSE
+
+Processing o against mf
+EVAL: rv = 77, tv = 468 op :  !=  TRUE
+INC : rv = 1257, ov = 283
+RESULT: register o = 1540
+
+Processing bkd against fz
+EVAL: rv = -768, tv = 733 op :  <  TRUE
+INC : rv = -3150, ov = -192
+RESULT: register bkd = -3342
+
+Processing bkd against a
+EVAL: rv = 1972, tv = 1585 op :  <  FALSE
+
+Processing mf against fw
+EVAL: rv = 1765, tv = 1708 op :  <=  FALSE
+
+Processing cp against xn
+EVAL: rv = 1765, tv = 3782 op :  >=  FALSE
+
+Processing mf against hnb
+EVAL: rv = -492, tv = -1335 op :  ==  FALSE
+
+Processing mf against eje
+EVAL: rv = 1488, tv = 2571 op :  >=  FALSE
+
+Processing rny against kfn
+EVAL: rv = -2044, tv = -421 op :  <  TRUE
+DEC : rv = 758, ov = 446
+RESULT: register rny = 312
+
+Processing hnb against yk
+EVAL: rv = 1434, tv = 2733 op :  <=  TRUE
+INC : rv = -492, ov = -103
+RESULT: register hnb = -595
+
+Processing bkd against qur
+EVAL: rv = 677, tv = 1677 op :  <=  TRUE
+DEC : rv = -3342, ov = -766
+RESULT: register bkd = -2576
+
+Processing oso against jf
+EVAL: rv = -512, tv = -192 op :  ==  FALSE
+
+Processing a against dl
+EVAL: rv = 59, tv = 1671 op :  >  FALSE
+
+Processing ehd against v
+EVAL: rv = -529, tv = -1870 op :  <=  FALSE
+
+Processing q against hnb
+EVAL: rv = -595, tv = -1437 op :  >  TRUE
+DEC : rv = 1811, ov = -615
+RESULT: register q = 2426
+
+Processing a against kfn
+EVAL: rv = -2044, tv = -430 op :  ==  FALSE
+
+Processing jf against fz
+EVAL: rv = -768, tv = 721 op :  >=  FALSE
+
+Processing he against yk
+EVAL: rv = 1434, tv = 2732 op :  ==  FALSE
+
+Processing bkd against kfn
+EVAL: rv = -2044, tv = -424 op :  <  TRUE
+DEC : rv = -2576, ov = 574
+RESULT: register bkd = -3150
+
+Processing fz against eje
+EVAL: rv = 1488, tv = 2578 op :  <  TRUE
+DEC : rv = -768, ov = -655
+RESULT: register fz = -113
+
+Processing a against q
+EVAL: rv = 2426, tv = -249 op :  >  TRUE
+INC : rv = 1972, ov = -618
+RESULT: register a = 1354
+
+Processing qur against z
+EVAL: rv = 765, tv = -334 op :  <=  FALSE
+
+Processing z against uly
+EVAL: rv = 1400, tv = 2941 op :  <  TRUE
+INC : rv = 765, ov = -433
+RESULT: register z = 332
+
+Processing v against qur
+EVAL: rv = 677, tv = 2057 op :  <=  TRUE
+DEC : rv = -529, ov = 83
+RESULT: register v = -612
+
+Processing jf against jf
+EVAL: rv = -512, tv = 621 op :  !=  TRUE
+DEC : rv = -512, ov = 435
+RESULT: register jf = -947
+
+Processing kfn against q
+EVAL: rv = 2426, tv = -246 op :  >=  TRUE
+DEC : rv = -2044, ov = 516
+RESULT: register kfn = -2560
+
+Processing q against z
+EVAL: rv = 332, tv = -780 op :  <  FALSE
+
+Processing yk against uly
+EVAL: rv = 1400, tv = 2935 op :  ==  FALSE
+
+Processing fw against yk
+EVAL: rv = 1434, tv = 2311 op :  <=  TRUE
+INC : rv = 1765, ov = 192
+RESULT: register fw = 1957
+
+Processing eje against fz
+EVAL: rv = -113, tv = 1381 op :  <=  TRUE
+DEC : rv = 1488, ov = -318
+RESULT: register eje = 1806
+
+Processing yk against z
+EVAL: rv = 332, tv = -774 op :  !=  TRUE
+INC : rv = 1434, ov = -731
+RESULT: register yk = 703
+
+Processing kfn against yk
+EVAL: rv = 703, tv = 2310 op :  ==  FALSE
+
+Processing a against uly
+EVAL: rv = 1400, tv = 2935 op :  <=  TRUE
+INC : rv = 1354, ov = -450
+RESULT: register a = 904
+
+Processing fz against kfn
+EVAL: rv = -2560, tv = -868 op :  <=  TRUE
+DEC : rv = -113, ov = 108
+RESULT: register fz = -221
+
+Processing uly against v
+EVAL: rv = -612, tv = -1856 op :  <=  FALSE
+
+Processing eje against yk
+EVAL: rv = 703, tv = 2312 op :  >=  FALSE
+
+Processing b against rny
+EVAL: rv = 312, tv = 4533 op :  <  TRUE
+DEC : rv = 2214, ov = 212
+RESULT: register b = 2002
+
+Processing qur against qur
+EVAL: rv = 677, tv = 2065 op :  >=  FALSE
+
+Processing qur against xn
+EVAL: rv = 1765, tv = 3790 op :  !=  TRUE
+DEC : rv = 677, ov = 416
+RESULT: register qur = 261
+
+Processing he against bkd
+EVAL: rv = -3150, tv = -3243 op :  <=  FALSE
+
+Processing fz against bkd
+EVAL: rv = -3150, tv = -3234 op :  <  FALSE
+
+Processing b against z
+EVAL: rv = 332, tv = -773 op :  >  TRUE
+INC : rv = 2002, ov = 121
+RESULT: register b = 2123
+
+Processing rny against oxv
+EVAL: rv = 983, tv = 1528 op :  ==  FALSE
+
+Processing bkd against rny
+EVAL: rv = 312, tv = 5274 op :  ==  FALSE
+
+Processing xn against cp
+EVAL: rv = 642, tv = 484 op :  !=  TRUE
+DEC : rv = 1765, ov = -666
+RESULT: register xn = 2431
+
+Processing xn against qur
+EVAL: rv = 261, tv = 2402 op :  <  TRUE
+INC : rv = 2431, ov = -259
+RESULT: register xn = 2172
+
+Processing oxv against fz
+EVAL: rv = -221, tv = 678 op :  <=  TRUE
+INC : rv = 983, ov = 275
+RESULT: register oxv = 1258
+
+Processing yk against v
+EVAL: rv = -612, tv = -1871 op :  >=  TRUE
+INC : rv = 703, ov = 540
+RESULT: register yk = 1243
+
+Processing kfn against uly
+EVAL: rv = 1400, tv = 2615 op :  <  TRUE
+INC : rv = -2560, ov = 515
+RESULT: register kfn = -2045
+
+Processing dl against b
+EVAL: rv = 2123, tv = 3717 op :  !=  TRUE
+DEC : rv = 59, ov = 848
+RESULT: register dl = -789
+
+Processing z against mf
+EVAL: rv = 77, tv = 184 op :  <  TRUE
+DEC : rv = 332, ov = 613
+RESULT: register z = -281
+
+Processing v against q
+EVAL: rv = 2426, tv = -241 op :  ==  FALSE
+
+Processing cp against he
+EVAL: rv = 448, tv = 878 op :  >=  FALSE
+
+Processing v against xn
+EVAL: rv = 2172, tv = 4443 op :  >  FALSE
+
+Processing he against oso
+EVAL: rv = -22, tv = 2266 op :  ==  FALSE
+
+Processing o against he
+EVAL: rv = 448, tv = 162 op :  >  TRUE
+INC : rv = 1540, ov = -3
+RESULT: register o = 1537
+
+Processing kfn against jf
+EVAL: rv = -947, tv = 175 op :  <=  TRUE
+INC : rv = -2045, ov = -986
+RESULT: register kfn = -3031
+
+Processing yk against o
+EVAL: rv = 1537, tv = 2927 op :  <  TRUE
+INC : rv = 1243, ov = -299
+RESULT: register yk = 944
+
+Processing cp against fz
+EVAL: rv = -221, tv = 689 op :  <=  TRUE
+DEC : rv = 642, ov = 983
+RESULT: register cp = -341
+
+Processing eje against eje
+EVAL: rv = 1806, tv = 2888 op :  <=  TRUE
+DEC : rv = 1806, ov = 843
+RESULT: register eje = 963
+
+Processing v against cp
+EVAL: rv = -341, tv = -434 op :  <  FALSE
+
+Processing qur against xn
+EVAL: rv = 2172, tv = 4459 op :  <  TRUE
+INC : rv = 261, ov = 868
+RESULT: register qur = 1129
+
+Processing eje against rny
+EVAL: rv = 312, tv = 5273 op :  >=  FALSE
+
+Processing o against hnb
+EVAL: rv = -595, tv = -1436 op :  >  TRUE
+INC : rv = 1537, ov = 936
+RESULT: register o = 2473
+
+Processing bkd against bkd
+EVAL: rv = -3150, tv = -4098 op :  >=  TRUE
+DEC : rv = -3150, ov = 895
+RESULT: register bkd = -4045
+
+Processing jf against a
+EVAL: rv = 904, tv = 711 op :  !=  TRUE
+DEC : rv = -947, ov = 101
+RESULT: register jf = -1048
+
+Processing b against xn
+EVAL: rv = 2172, tv = 4461 op :  <  TRUE
+INC : rv = 2123, ov = 817
+RESULT: register b = 2940
+
+Processing oso against eje
+EVAL: rv = 963, tv = 1189 op :  >  FALSE
+
+Processing uly against qur
+EVAL: rv = 1129, tv = 3271 op :  !=  TRUE
+DEC : rv = 1400, ov = 474
+RESULT: register uly = 926
+
+Processing rny against hnb
+EVAL: rv = -595, tv = -1430 op :  >=  TRUE
+INC : rv = 312, ov = -173
+RESULT: register rny = 139
+
+Processing b against q
+EVAL: rv = 2426, tv = -234 op :  <=  FALSE
+
+Processing mf against hnb
+EVAL: rv = -595, tv = -1438 op :  ==  FALSE
+
+Processing eje against rny
+EVAL: rv = 139, tv = 5267 op :  <  TRUE
+INC : rv = 963, ov = 770
+RESULT: register eje = 1733
+
+Processing cp against oso
+EVAL: rv = -22, tv = 1759 op :  <  TRUE
+DEC : rv = -341, ov = 430
+RESULT: register cp = -771
+
+Processing jf against jf
+EVAL: rv = -1048, tv = 177 op :  >  FALSE
+
+Processing qur against v
+EVAL: rv = -612, tv = -2045 op :  >  TRUE
+INC : rv = 1129, ov = -699
+RESULT: register qur = 430
+
+Processing hnb against ehd
+EVAL: rv = 465, tv = -51 op :  !=  TRUE
+DEC : rv = -595, ov = 810
+RESULT: register hnb = -1405
+
+Processing cp against z
+EVAL: rv = -281, tv = -1382 op :  <=  FALSE
+
+Processing oso against kfn
+EVAL: rv = -3031, tv = -341 op :  <=  TRUE
+DEC : rv = -22, ov = -955
+RESULT: register oso = 933
+
+Processing oxv against fz
+EVAL: rv = -221, tv = 684 op :  >=  FALSE
+
+Processing b against fz
+EVAL: rv = -221, tv = 691 op :  <=  TRUE
+INC : rv = 2940, ov = 195
+RESULT: register b = 3135
+
+Processing ehd against o
+EVAL: rv = 2473, tv = 2921 op :  ==  FALSE
+
+Processing bkd against cp
+EVAL: rv = -771, tv = -978 op :  <=  FALSE
+
+Processing rny against fz
+EVAL: rv = -221, tv = 681 op :  ==  FALSE
+
+Processing v against xn
+EVAL: rv = 2172, tv = 4457 op :  <  TRUE
+DEC : rv = -612, ov = 488
+RESULT: register v = -1100
+
+Processing qur against oxv
+EVAL: rv = 1258, tv = 1562 op :  !=  TRUE
+DEC : rv = 430, ov = 549
+RESULT: register qur = -119
+
+Processing he against fz
+EVAL: rv = -221, tv = 693 op :  <=  TRUE
+DEC : rv = 448, ov = -128
+RESULT: register he = 576
+
+Processing jf against qur
+EVAL: rv = -119, tv = 2023 op :  ==  FALSE
+
+Processing cp against o
+EVAL: rv = 2473, tv = 2923 op :  <=  TRUE
+INC : rv = -771, ov = -208
+RESULT: register cp = -979
+
+Processing dl against kfn
+EVAL: rv = -3031, tv = -345 op :  >=  FALSE
+
+Processing hnb against qur
+EVAL: rv = -119, tv = 2022 op :  !=  TRUE
+INC : rv = -1405, ov = -812
+RESULT: register hnb = -2217
+
+Processing oxv against a
+EVAL: rv = 904, tv = 711 op :  ==  FALSE
+
+Processing xn against ehd
+EVAL: rv = 465, tv = 599 op :  >=  FALSE
+
+Processing oso against hnb
+EVAL: rv = -2217, tv = -3063 op :  >=  TRUE
+INC : rv = 933, ov = -858
+RESULT: register oso = 75
+
+Processing eje against eje
+EVAL: rv = 1733, tv = 1200 op :  >  TRUE
+INC : rv = 1733, ov = -742
+RESULT: register eje = 991
+
+Processing qur against v
+EVAL: rv = -1100, tv = -2524 op :  <  FALSE
+
+Processing yk against v
+EVAL: rv = -1100, tv = -2533 op :  <  FALSE
+
+Processing eje against oso
+EVAL: rv = 75, tv = 1844 op :  <=  TRUE
+INC : rv = 991, ov = -212
+RESULT: register eje = 779
+
+Processing uly against uly
+EVAL: rv = 926, tv = 2619 op :  <  TRUE
+INC : rv = 926, ov = -85
+RESULT: register uly = 841
+
+Processing dl against cp
+EVAL: rv = -979, tv = -1174 op :  !=  TRUE
+DEC : rv = -789, ov = -555
+RESULT: register dl = -234
+
+Processing fz against eje
+EVAL: rv = 779, tv = 1198 op :  <=  TRUE
+DEC : rv = -221, ov = -516
+RESULT: register fz = 295
+
+Processing z against oso
+EVAL: rv = 75, tv = 1854 op :  >=  FALSE
+
+Processing b against fz
+EVAL: rv = 295, tv = 1207 op :  <=  TRUE
+INC : rv = 3135, ov = -175
+RESULT: register b = 2960
+
+Processing v against he
+EVAL: rv = 576, tv = 292 op :  !=  TRUE
+DEC : rv = -1100, ov = -571
+RESULT: register v = -529
+
+Processing o against jf
+EVAL: rv = -1048, tv = 959 op :  !=  TRUE
+DEC : rv = 2473, ov = -84
+RESULT: register o = 2557
+
+Processing jf against jf
+EVAL: rv = -1048, tv = 962 op :  >  FALSE
+
+Processing cp against dl
+EVAL: rv = -234, tv = 1351 op :  ==  FALSE
+
+Processing z against v
+EVAL: rv = -529, tv = -1954 op :  <=  FALSE
+
+Processing kfn against ehd
+EVAL: rv = 465, tv = 594 op :  >  FALSE
+
+Processing dl against he
+EVAL: rv = 576, tv = 288 op :  >=  TRUE
+INC : rv = -234, ov = 410
+RESULT: register dl = 176
+
+Processing uly against v
+EVAL: rv = -529, tv = -1956 op :  <  FALSE
+
+Processing qur against a
+EVAL: rv = 904, tv = 711 op :  ==  FALSE
+
+Processing q against eje
+EVAL: rv = 779, tv = 1205 op :  >  FALSE
+
+Processing q against ehd
+EVAL: rv = 465, tv = 605 op :  >  FALSE
+
+Processing mf against cp
+EVAL: rv = -979, tv = -1948 op :  ==  FALSE
+
+Processing rny against xn
+EVAL: rv = 2172, tv = 4070 op :  >=  FALSE
+
+Processing cp against ehd
+EVAL: rv = 465, tv = 600 op :  <  TRUE
+DEC : rv = -979, ov = 7
+RESULT: register cp = -986
+
+Processing bkd against a
+EVAL: rv = 904, tv = 715 op :  >=  TRUE
+INC : rv = -4045, ov = 491
+RESULT: register bkd = -3554
+
+Processing yk against ehd
+EVAL: rv = 465, tv = 604 op :  <=  TRUE
+INC : rv = 944, ov = -399
+RESULT: register yk = 545
+
+Processing ehd against he
+EVAL: rv = 576, tv = 294 op :  ==  FALSE
+
+Processing yk against he
+EVAL: rv = 576, tv = 294 op :  >=  TRUE
+INC : rv = 545, ov = 957
+RESULT: register yk = 1502
+
+Processing he against uly
+EVAL: rv = 841, tv = 2529 op :  >  FALSE
+
+Processing jf against uly
+EVAL: rv = 841, tv = 2521 op :  >=  FALSE
+
+Processing rny against rny
+EVAL: rv = 139, tv = 4481 op :  >=  FALSE
+
+Processing z against fw
+EVAL: rv = 1957, tv = 1896 op :  ==  FALSE
+
+Processing v against cp
+EVAL: rv = -986, tv = -1950 op :  >=  TRUE
+INC : rv = -529, ov = -773
+RESULT: register v = -1302
+
+Processing z against xn
+EVAL: rv = 2172, tv = 4076 op :  ==  FALSE
+
+Processing v against a
+EVAL: rv = 904, tv = 720 op :  <  FALSE
+
+Processing mf against a
+EVAL: rv = 904, tv = 705 op :  >=  TRUE
+INC : rv = 77, ov = -888
+RESULT: register mf = -811
+
+Processing b against kfn
+EVAL: rv = -3031, tv = 637 op :  >=  FALSE
+
+Processing oso against rny
+EVAL: rv = 139, tv = 4433 op :  >  FALSE
+
+Processing uly against v
+EVAL: rv = -1302, tv = -3195 op :  ==  FALSE
+
+Processing qur against xn
+EVAL: rv = 2172, tv = 4070 op :  ==  FALSE
+
+Processing oxv against o
+EVAL: rv = 2557, tv = 2997 op :  >=  FALSE
+
+Processing mf against cp
+EVAL: rv = -986, tv = -1951 op :  >  TRUE
+DEC : rv = -811, ov = -930
+RESULT: register mf = 119
+
+Processing mf against rny
+EVAL: rv = 139, tv = 4432 op :  >  FALSE
+
+Processing oxv against he
+EVAL: rv = 576, tv = 290 op :  >=  TRUE
+INC : rv = 1258, ov = -287
+RESULT: register oxv = 971
+
+Processing eje against xn
+EVAL: rv = 2172, tv = 4070 op :  ==  FALSE
+
+Processing fz against yk
+EVAL: rv = 1502, tv = 3117 op :  <=  TRUE
+DEC : rv = 295, ov = -637
+RESULT: register fz = 932
+
+Processing a against jf
+EVAL: rv = -1048, tv = 1847 op :  <=  TRUE
+INC : rv = 904, ov = 762
+RESULT: register a = 1666
+
+Processing a against o
+EVAL: rv = 2557, tv = 2995 op :  !=  TRUE
+DEC : rv = 1666, ov = 849
+RESULT: register a = 817
+
+Processing oxv against fw
+EVAL: rv = 1957, tv = 1897 op :  <=  FALSE
+
+Processing qur against mf
+EVAL: rv = 119, tv = -1491 op :  <=  FALSE
+
+Processing xn against yk
+EVAL: rv = 1502, tv = 3110 op :  >  FALSE
+
+Processing he against qur
+EVAL: rv = -119, tv = 3823 op :  >  FALSE
+
+Processing kfn against z
+EVAL: rv = -281, tv = -404 op :  ==  FALSE
+
+Processing bkd against yk
+EVAL: rv = 1502, tv = 3100 op :  >  FALSE
+
+Processing yk against rny
+EVAL: rv = 139, tv = 4441 op :  !=  TRUE
+INC : rv = 1502, ov = -632
+RESULT: register yk = 870
+
+Processing fw against jf
+EVAL: rv = -1048, tv = 1846 op :  <  TRUE
+INC : rv = 1957, ov = 616
+RESULT: register fw = 2573
+
+Processing v against xn
+EVAL: rv = 2172, tv = 4070 op :  ==  FALSE
+
+Processing dl against ehd
+EVAL: rv = 465, tv = 25 op :  ==  FALSE
+
+Processing oso against ehd
+EVAL: rv = 465, tv = 24 op :  <  FALSE
+
+Processing qur against o
+EVAL: rv = 2557, tv = 3005 op :  ==  FALSE
+
+Processing jf against eje
+EVAL: rv = 779, tv = 1102 op :  <=  TRUE
+DEC : rv = -1048, ov = 24
+RESULT: register jf = -1072
+
+Processing fw against b
+EVAL: rv = 2960, tv = 3043 op :  <=  TRUE
+INC : rv = 2573, ov = 119
+RESULT: register fw = 2692
+
+Processing kfn against a
+EVAL: rv = 817, tv = 631 op :  >  TRUE
+INC : rv = -3031, ov = 319
+RESULT: register kfn = -2712
+
+Processing fz against kfn
+EVAL: rv = -2712, tv = -52 op :  <  TRUE
+DEC : rv = 932, ov = 527
+RESULT: register fz = 405
+
+Processing yk against mf
+EVAL: rv = 119, tv = -1487 op :  !=  TRUE
+DEC : rv = 870, ov = 691
+RESULT: register yk = 179
+
+Processing qur against ehd
+EVAL: rv = 465, tv = 17 op :  >=  TRUE
+DEC : rv = -119, ov = -798
+RESULT: register qur = 679
+
+Processing yk against q
+EVAL: rv = 2426, tv = -241 op :  ==  FALSE
+
+Processing ehd against mf
+EVAL: rv = 119, tv = -1506 op :  >  TRUE
+DEC : rv = 465, ov = 270
+RESULT: register ehd = 195
+
+Processing oxv against mf
+EVAL: rv = 119, tv = -1495 op :  <  FALSE
+
+Processing mf against q
+EVAL: rv = 2426, tv = -248 op :  >  TRUE
+INC : rv = 119, ov = -893
+RESULT: register mf = -774
+
+Processing v against he
+EVAL: rv = 576, tv = 298 op :  >=  TRUE
+DEC : rv = -1302, ov = 774
+RESULT: register v = -2076
+
+Processing a against dl
+EVAL: rv = 176, tv = 2673 op :  >  FALSE
+
+Processing z against z
+EVAL: rv = -281, tv = -404 op :  ==  FALSE
+
+Processing rny against ehd
+EVAL: rv = 195, tv = -252 op :  !=  TRUE
+INC : rv = 139, ov = -80
+RESULT: register rny = 59
+
+Processing hnb against b
+EVAL: rv = 2960, tv = 3040 op :  >=  FALSE
+
+Processing xn against fw
+EVAL: rv = 2692, tv = 2512 op :  !=  TRUE
+DEC : rv = 2172, ov = -197
+RESULT: register xn = 2369
+
+Processing uly against xn
+EVAL: rv = 2369, tv = 4068 op :  >=  FALSE
+
+Processing uly against uly
+EVAL: rv = 841, tv = 3767 op :  <=  TRUE
+DEC : rv = 841, ov = 407
+RESULT: register uly = 434
+
+Processing fw against fw
+EVAL: rv = 2692, tv = 2504 op :  >  TRUE
+INC : rv = 2692, ov = 953
+RESULT: register fw = 3645
+
+Processing yk against qur
+EVAL: rv = 679, tv = 5304 op :  !=  TRUE
+DEC : rv = 179, ov = 412
+RESULT: register yk = -233
+
+Processing jf against rny
+EVAL: rv = 59, tv = 4358 op :  <=  TRUE
+INC : rv = -1072, ov = -40
+RESULT: register jf = -1112
+
+Processing oxv against he
+EVAL: rv = 576, tv = 303 op :  ==  FALSE
+
+Processing oxv against eje
+EVAL: rv = 779, tv = 1115 op :  <=  TRUE
+DEC : rv = 971, ov = 598
+RESULT: register oxv = 373
+
+Processing dl against z
+EVAL: rv = -281, tv = 129 op :  ==  FALSE
+
+Processing kfn against uly
+EVAL: rv = 434, tv = 3359 op :  !=  TRUE
+DEC : rv = -2712, ov = 615
+RESULT: register kfn = -3327
+
+Processing z against a
+EVAL: rv = 817, tv = -341 op :  <  FALSE
+
+Processing v against z
+EVAL: rv = -281, tv = 156 op :  >  FALSE
+
+Processing b against a
+EVAL: rv = 817, tv = -356 op :  >=  TRUE
+INC : rv = 2960, ov = -903
+RESULT: register b = 2057
+
+Processing he against z
+EVAL: rv = -281, tv = 163 op :  <=  TRUE
+INC : rv = 576, ov = -801
+RESULT: register he = -225
+
+Processing oso against kfn
+EVAL: rv = -3327, tv = -58 op :  >  FALSE
+
+Processing a against he
+EVAL: rv = -225, tv = -497 op :  <  FALSE
+
+Processing fz against kfn
+EVAL: rv = -3327, tv = -55 op :  <  TRUE
+INC : rv = 405, ov = 11
+RESULT: register fz = 416
+
+Processing cp against oxv
+EVAL: rv = 373, tv = -1305 op :  <=  FALSE
+
+Processing qur against xn
+EVAL: rv = 2369, tv = 4078 op :  !=  TRUE
+DEC : rv = 679, ov = -811
+RESULT: register qur = 1490
+
+Processing o against b
+EVAL: rv = 2057, tv = 2143 op :  <=  TRUE
+INC : rv = 2557, ov = -322
+RESULT: register o = 2235
+
+Processing jf against bkd
+EVAL: rv = -3554, tv = -4020 op :  >  TRUE
+INC : rv = -1112, ov = 275
+RESULT: register jf = -837
+
+Processing b against ehd
+EVAL: rv = 195, tv = -240 op :  !=  TRUE
+INC : rv = 2057, ov = -847
+RESULT: register b = 1210
+
+Processing cp against q
+EVAL: rv = 2426, tv = -248 op :  >  TRUE
+DEC : rv = -986, ov = 205
+RESULT: register cp = -1191
+
+Processing bkd against fw
+EVAL: rv = 3645, tv = 3470 op :  !=  TRUE
+INC : rv = -3554, ov = 579
+RESULT: register bkd = -2975
+
+Processing oso against uly
+EVAL: rv = 434, tv = 3368 op :  <  TRUE
+INC : rv = 75, ov = 934
+RESULT: register oso = 1009
+
+Processing z against he
+EVAL: rv = -225, tv = -503 op :  <=  FALSE
+
+Processing hnb against o
+EVAL: rv = 2235, tv = 3005 op :  !=  TRUE
+INC : rv = -2217, ov = -339
+RESULT: register hnb = -2556
+
+Processing yk against rny
+EVAL: rv = 59, tv = 4358 op :  <  TRUE
+INC : rv = -233, ov = 574
+RESULT: register yk = 341
+
+Processing he against oxv
+EVAL: rv = 373, tv = -1310 op :  <  FALSE
+
+Processing a against yk
+EVAL: rv = 341, tv = 1765 op :  <=  TRUE
+INC : rv = 817, ov = -29
+RESULT: register a = 788
+
+Processing q against eje
+EVAL: rv = 779, tv = 1105 op :  <  TRUE
+DEC : rv = 2426, ov = -147
+RESULT: register q = 2573
+
+Processing uly against a
+EVAL: rv = 788, tv = -694 op :  >=  TRUE
+DEC : rv = 434, ov = 987
+RESULT: register uly = -553
+
+Processing a against eje
+EVAL: rv = 779, tv = 1110 op :  <  TRUE
+DEC : rv = 788, ov = 40
+RESULT: register a = 748
+
+Processing q against ehd
+EVAL: rv = 195, tv = -244 op :  <=  FALSE
+
+Processing cp against hnb
+EVAL: rv = -2556, tv = -2871 op :  ==  FALSE
+
+Processing fw against fz
+EVAL: rv = 416, tv = 1316 op :  >=  FALSE
+
+Processing he against xn
+EVAL: rv = 2369, tv = 4070 op :  <=  TRUE
+DEC : rv = -225, ov = -792
+RESULT: register he = 567
+
+Processing kfn against ehd
+EVAL: rv = 195, tv = -250 op :  >  TRUE
+INC : rv = -3327, ov = -616
+RESULT: register kfn = -3943
+
+Processing cp against z
+EVAL: rv = -281, tv = -582 op :  ==  FALSE
+
+Processing fz against rny
+EVAL: rv = 59, tv = 4350 op :  >=  FALSE
+
+Processing rny against oso
+EVAL: rv = 1009, tv = 2347 op :  >=  FALSE
+
+Processing xn against rny
+EVAL: rv = 59, tv = 4135 op :  ==  FALSE
+
+Processing fz against dl
+EVAL: rv = 176, tv = 2468 op :  <  TRUE
+DEC : rv = 416, ov = 793
+RESULT: register fz = -377
+
+Processing ehd against hnb
+EVAL: rv = -2556, tv = -2879 op :  >=  TRUE
+DEC : rv = 195, ov = 856
+RESULT: register ehd = -661
+
+Processing bkd against cp
+EVAL: rv = -1191, tv = -2569 op :  >  TRUE
+INC : rv = -2975, ov = -659
+RESULT: register bkd = -3634
+
+Processing dl against oxv
+EVAL: rv = 373, tv = -1314 op :  !=  TRUE
+DEC : rv = 176, ov = 697
+RESULT: register dl = -521
+
+Processing xn against z
+EVAL: rv = -281, tv = -572 op :  <=  FALSE
+
+Processing he against rny
+EVAL: rv = 59, tv = 4127 op :  >  FALSE
+
+Processing dl against xn
+EVAL: rv = 2369, tv = 4883 op :  >=  FALSE
+
+Processing mf against fz
+EVAL: rv = -377, tv = -28 op :  ==  FALSE
+
+Processing o against o
+EVAL: rv = 2235, tv = 2997 op :  >=  FALSE
+
+Processing fz against oso
+EVAL: rv = 1009, tv = 2354 op :  !=  TRUE
+INC : rv = -377, ov = 731
+RESULT: register fz = 354
+
+Processing fw against uly
+EVAL: rv = -553, tv = 2380 op :  <=  TRUE
+INC : rv = 3645, ov = 722
+RESULT: register fw = 4367
+
+Processing kfn against v
+EVAL: rv = -2076, tv = -3411 op :  !=  TRUE
+INC : rv = -3943, ov = 577
+RESULT: register kfn = -3366
+
+Processing mf against dl
+EVAL: rv = -521, tv = 3393 op :  >  FALSE
+
+Processing oso against he
+EVAL: rv = 567, tv = -124 op :  !=  TRUE
+DEC : rv = 1009, ov = -742
+RESULT: register oso = 1751
+
+Processing hnb against jf
+EVAL: rv = -837, tv = 2073 op :  <=  TRUE
+INC : rv = -2556, ov = 74
+RESULT: register hnb = -2482
+
+Processing z against rny
+EVAL: rv = 59, tv = 4145 op :  <  TRUE
+DEC : rv = -281, ov = 532
+RESULT: register z = -813
+
+Processing kfn against he
+EVAL: rv = 567, tv = -115 op :  <  FALSE
+
+Processing q against cp
+EVAL: rv = -1191, tv = -2557 op :  >  TRUE
+INC : rv = 2573, ov = 725
+RESULT: register q = 3298
+
+Processing b against o
+EVAL: rv = 2235, tv = 3831 op :  !=  TRUE
+INC : rv = 1210, ov = 733
+RESULT: register b = 1943
+
+Processing hnb against eje
+EVAL: rv = 779, tv = 1120 op :  <  TRUE
+INC : rv = -2482, ov = 869
+RESULT: register hnb = -1613
+
+Processing xn against uly
+EVAL: rv = -553, tv = 2362 op :  >  FALSE
+
+Processing hnb against eje
+EVAL: rv = 779, tv = 1107 op :  !=  TRUE
+DEC : rv = -1613, ov = -117
+RESULT: register hnb = -1496
+
+Processing v against fw
+EVAL: rv = 4367, tv = 3930 op :  <  FALSE
+
+Processing fw against dl
+EVAL: rv = -521, tv = 3404 op :  <=  TRUE
+DEC : rv = 4367, ov = 801
+RESULT: register fw = 3566
+
+Processing rny against mf
+EVAL: rv = -774, tv = -3254 op :  <  FALSE
+
+Processing yk against q
+EVAL: rv = 3298, tv = -675 op :  >  TRUE
+DEC : rv = 341, ov = -405
+RESULT: register yk = 746
+
+Processing fz against oso
+EVAL: rv = 1751, tv = 2361 op :  !=  TRUE
+DEC : rv = 354, ov = -992
+RESULT: register fz = 1346
+
+Processing v against dl
+EVAL: rv = -521, tv = 3400 op :  !=  TRUE
+INC : rv = -2076, ov = -524
+RESULT: register v = -2600
+
+Processing mf against q
+EVAL: rv = 3298, tv = -674 op :  >  TRUE
+INC : rv = -774, ov = -233
+RESULT: register mf = -1007
+
+Processing rny against a
+EVAL: rv = 748, tv = -685 op :  >  TRUE
+INC : rv = 59, ov = 957
+RESULT: register rny = 1016
+
+Processing oso against z
+EVAL: rv = -813, tv = -1104 op :  !=  TRUE
+INC : rv = 1751, ov = 803
+RESULT: register oso = 2554
+
+Processing eje against mf
+EVAL: rv = -1007, tv = -3486 op :  <  FALSE
+
+Processing kfn against fw
+EVAL: rv = 3566, tv = 3119 op :  >=  TRUE
+INC : rv = -3366, ov = -242
+RESULT: register kfn = -3608
+
+Processing b against q
+EVAL: rv = 3298, tv = -667 op :  !=  TRUE
+INC : rv = 1943, ov = 805
+RESULT: register b = 2748
+
+Processing xn against oso
+EVAL: rv = 2554, tv = 3156 op :  >=  FALSE
+
+Processing yk against o
+EVAL: rv = 2235, tv = 3828 op :  <=  TRUE
+DEC : rv = 746, ov = 950
+RESULT: register yk = -204
+
+Processing ehd against qur
+EVAL: rv = 1490, tv = 6125 op :  <  TRUE
+DEC : rv = -661, ov = -132
+RESULT: register ehd = -529
+
+Processing jf against jf
+EVAL: rv = -837, tv = 2070 op :  >  FALSE
+
+Processing ehd against kfn
+EVAL: rv = -3608, tv = -736 op :  >  FALSE
+
+Processing mf against bkd
+EVAL: rv = -3634, tv = -4103 op :  >  TRUE
+DEC : rv = -1007, ov = 933
+RESULT: register mf = -1940
+
+Processing fw against hnb
+EVAL: rv = -1496, tv = -1882 op :  <=  FALSE
+
+Processing fz against o
+EVAL: rv = 2235, tv = 3827 op :  !=  TRUE
+INC : rv = 1346, ov = -16
+RESULT: register fz = 1330
+
+Processing v against he
+EVAL: rv = 567, tv = -116 op :  <=  FALSE
+
+Processing v against he
+EVAL: rv = 567, tv = -128 op :  >=  TRUE
+INC : rv = -2600, ov = -547
+RESULT: register v = -3147
+
+Processing oxv against mf
+EVAL: rv = -1940, tv = -4425 op :  >  TRUE
+INC : rv = 373, ov = 341
+RESULT: register oxv = 714
+
+Processing z against fw
+EVAL: rv = 3566, tv = 3105 op :  <  FALSE
+
+Processing kfn against dl
+EVAL: rv = -521, tv = 3394 op :  >  FALSE
+
+Processing dl against eje
+EVAL: rv = 779, tv = 1364 op :  >=  FALSE
+
+Processing dl against fz
+EVAL: rv = 1330, tv = 951 op :  >  TRUE
+INC : rv = -521, ov = 510
+RESULT: register dl = -11
+
+Processing o against oso
+EVAL: rv = 2554, tv = 3167 op :  ==  FALSE
+
+Processing yk against q
+EVAL: rv = 3298, tv = -666 op :  >  TRUE
+DEC : rv = -204, ov = -333
+RESULT: register yk = 129
+
+Processing fz against o
+EVAL: rv = 2235, tv = 3825 op :  !=  TRUE
+DEC : rv = 1330, ov = -909
+RESULT: register fz = 2239
+
+Processing fz against bkd
+EVAL: rv = -3634, tv = -4103 op :  >  TRUE
+DEC : rv = 2239, ov = 802
+RESULT: register fz = 1437
+
+Processing bkd against q
+EVAL: rv = 3298, tv = -666 op :  <  FALSE
+
+Processing oso against kfn
+EVAL: rv = -3608, tv = -1257 op :  <=  TRUE
+INC : rv = 2554, ov = -33
+RESULT: register oso = 2521
+
+Processing jf against fz
+EVAL: rv = 1437, tv = 1058 op :  !=  TRUE
+INC : rv = -837, ov = 194
+RESULT: register jf = -643
+
+Processing z against a
+EVAL: rv = 748, tv = -682 op :  <  FALSE
+
+Processing a against v
+EVAL: rv = -3147, tv = -3244 op :  >  TRUE
+INC : rv = 748, ov = -813
+RESULT: register a = -65
+
+Processing a against hnb
+EVAL: rv = -1496, tv = -1881 op :  !=  TRUE
+INC : rv = -65, ov = 759
+RESULT: register a = 694
+
+Processing b against qur
+EVAL: rv = 1490, tv = 6118 op :  ==  FALSE
+
+Processing qur against he
+EVAL: rv = 567, tv = -131 op :  !=  TRUE
+DEC : rv = 1490, ov = 290
+RESULT: register qur = 1200
+
+Processing a against z
+EVAL: rv = -813, tv = -2133 op :  !=  TRUE
+DEC : rv = 694, ov = -326
+RESULT: register a = 1020
+
+Processing rny against qur
+EVAL: rv = 1200, tv = 5838 op :  !=  TRUE
+DEC : rv = 1016, ov = 311
+RESULT: register rny = 705
+
+Processing uly against qur
+EVAL: rv = 1200, tv = 5835 op :  <  TRUE
+DEC : rv = -553, ov = -692
+RESULT: register uly = 139
+
+Processing mf against uly
+EVAL: rv = 139, tv = 3060 op :  !=  TRUE
+DEC : rv = -1940, ov = 443
+RESULT: register mf = -2383
+
+Processing uly against hnb
+EVAL: rv = -1496, tv = -1891 op :  !=  TRUE
+INC : rv = 139, ov = -455
+RESULT: register uly = -316
+
+Processing bkd against eje
+EVAL: rv = 779, tv = 1364 op :  !=  TRUE
+INC : rv = -3634, ov = 504
+RESULT: register bkd = -3130
+
+Processing fw against he
+EVAL: rv = 567, tv = -119 op :  <  FALSE
+
+Processing dl against uly
+EVAL: rv = -316, tv = 2607 op :  >  FALSE
+
+Processing yk against q
+EVAL: rv = 3298, tv = -669 op :  >=  TRUE
+INC : rv = 129, ov = 39
+RESULT: register yk = 168
+
+Processing he against oxv
+EVAL: rv = 714, tv = -1322 op :  >  TRUE
+INC : rv = 567, ov = -814
+RESULT: register he = -247
+
+Processing dl against a
+EVAL: rv = 1020, tv = -746 op :  !=  TRUE
+DEC : rv = -11, ov = -131
+RESULT: register dl = 120
+
+Processing ehd against rny
+EVAL: rv = 705, tv = 3950 op :  <  TRUE
+INC : rv = -529, ov = 808
+RESULT: register ehd = 279
+
+Processing qur against xn
+EVAL: rv = 2369, tv = 5381 op :  ==  FALSE
+
+Processing dl against cp
+EVAL: rv = -1191, tv = -2554 op :  <  FALSE
+
+Processing jf against xn
+EVAL: rv = 2369, tv = 5382 op :  <  TRUE
+DEC : rv = -643, ov = -887
+RESULT: register jf = 244
+
+Processing fw against fz
+EVAL: rv = 1437, tv = 1058 op :  <=  FALSE
+
+Processing fw against dl
+EVAL: rv = 120, tv = 2694 op :  >=  FALSE
+
+Processing o against jf
+EVAL: rv = 244, tv = 2257 op :  <=  TRUE
+INC : rv = 2235, ov = 797
+RESULT: register o = 3032
+
+Processing eje against dl
+EVAL: rv = 120, tv = 2711 op :  <  TRUE
+INC : rv = 779, ov = -100
+RESULT: register eje = 679
+
+Processing rny against a
+EVAL: rv = 1020, tv = -744 op :  !=  TRUE
+INC : rv = 705, ov = 223
+RESULT: register rny = 928
+
+Processing q against uly
+EVAL: rv = -316, tv = 2605 op :  !=  TRUE
+INC : rv = 3298, ov = -262
+RESULT: register q = 3036
+
+Processing oso against fz
+EVAL: rv = 1437, tv = 1056 op :  !=  TRUE
+INC : rv = 2521, ov = 336
+RESULT: register oso = 2857
+
+Processing kfn against a
+EVAL: rv = 1020, tv = -750 op :  !=  TRUE
+INC : rv = -3608, ov = -847
+RESULT: register kfn = -4455
+
+Processing fw against o
+EVAL: rv = 3032, tv = 4612 op :  >  FALSE
+
+Processing jf against mf
+EVAL: rv = -2383, tv = -4867 op :  <=  FALSE
+
+Processing oxv against he
+EVAL: rv = -247, tv = -937 op :  <=  FALSE
+
+Processing he against hnb
+EVAL: rv = -1496, tv = -1894 op :  !=  TRUE
+DEC : rv = -247, ov = 85
+RESULT: register he = -332
+
+Processing jf against he
+EVAL: rv = -332, tv = -1023 op :  ==  FALSE
+
+Processing ehd against he
+EVAL: rv = -332, tv = -1029 op :  >  TRUE
+DEC : rv = 279, ov = -995
+RESULT: register ehd = 1274
+
+Processing rny against yk
+EVAL: rv = 168, tv = 1245 op :  <=  TRUE
+DEC : rv = 928, ov = -315
+RESULT: register rny = 1243
+
+Processing xn against z
+EVAL: rv = -813, tv = -2134 op :  ==  FALSE
+
+Processing eje against cp
+EVAL: rv = -1191, tv = -2567 op :  >=  TRUE
+INC : rv = 679, ov = 421
+RESULT: register eje = 1100
+
+Processing xn against he
+EVAL: rv = -332, tv = -1028 op :  !=  TRUE
+DEC : rv = 2369, ov = -187
+RESULT: register xn = 2556
+
+Processing eje against dl
+EVAL: rv = 120, tv = 2710 op :  <=  TRUE
+INC : rv = 1100, ov = 539
+RESULT: register eje = 1639
+
+Processing jf against oxv
+EVAL: rv = 714, tv = -1117 op :  >=  TRUE
+INC : rv = 244, ov = 34
+RESULT: register jf = 278
+
+Processing v against qur
+EVAL: rv = 1200, tv = 5718 op :  ==  FALSE
+
+Processing cp against mf
+EVAL: rv = -2383, tv = -4859 op :  <  FALSE
+
+Processing oxv against xn
+EVAL: rv = 2556, tv = 5559 op :  >  FALSE
+
+Processing mf against yk
+EVAL: rv = 168, tv = 1247 op :  <=  TRUE
+DEC : rv = -2383, ov = 0
+RESULT: register mf = -2383
+
+Processing z against hnb
+EVAL: rv = -1496, tv = -1886 op :  >=  TRUE
+DEC : rv = -813, ov = -963
+RESULT: register z = 150
+
+Processing mf against q
+EVAL: rv = 3036, tv = -938 op :  <  FALSE
+
+Processing a against dl
+EVAL: rv = 120, tv = 2698 op :  >=  FALSE
+
+Processing kfn against cp
+EVAL: rv = -1191, tv = -3481 op :  <=  FALSE
+
+Processing rny against eje
+EVAL: rv = 1639, tv = 2216 op :  <=  TRUE
+DEC : rv = 1243, ov = 529
+RESULT: register rny = 714
+
+Processing fw against a
+EVAL: rv = 1020, tv = -1048 op :  >  TRUE
+DEC : rv = 3566, ov = -621
+RESULT: register fw = 4187
+
+Processing rny against hnb
+EVAL: rv = -1496, tv = -1880 op :  <  FALSE
+
+Processing q against cp
+EVAL: rv = -1191, tv = -3488 op :  ==  FALSE
+
+Processing cp against oxv
+EVAL: rv = 714, tv = -1499 op :  >  TRUE
+DEC : rv = -1191, ov = 882
+RESULT: register cp = -2073
+
+Processing uly against fz
+EVAL: rv = 1437, tv = 1046 op :  >=  TRUE
+INC : rv = -316, ov = -941
+RESULT: register uly = -1257
+
+Processing z against eje
+EVAL: rv = 1639, tv = 2228 op :  <=  TRUE
+INC : rv = 150, ov = -595
+RESULT: register z = -445
+
+Processing eje against bkd
+EVAL: rv = -3130, tv = -2803 op :  ==  FALSE
+
+Processing oxv against z
+EVAL: rv = -445, tv = -1756 op :  <  FALSE
+
+Processing kfn against a
+EVAL: rv = 1020, tv = -1031 op :  !=  TRUE
+INC : rv = -4455, ov = -775
+RESULT: register kfn = -5230
+
+Processing mf against z
+EVAL: rv = -445, tv = -1765 op :  <=  FALSE
+
+Processing o against rny
+EVAL: rv = 714, tv = 4181 op :  ==  FALSE
+
+Processing z against fw
+EVAL: rv = 4187, tv = 4714 op :  <=  TRUE
+DEC : rv = -445, ov = -365
+RESULT: register z = -80
+
+Processing mf against yk
+EVAL: rv = 168, tv = 1253 op :  <  TRUE
+INC : rv = -2383, ov = 273
+RESULT: register mf = -2110
+
+Processing z against ehd
+EVAL: rv = 1274, tv = 830 op :  <  FALSE
+
+Processing he against b
+EVAL: rv = 2748, tv = 1818 op :  <  FALSE
+
+Processing dl against fz
+EVAL: rv = 1437, tv = 1061 op :  >  TRUE
+DEC : rv = 120, ov = -131
+RESULT: register dl = 251
+
+Processing eje against dl
+EVAL: rv = 251, tv = 2700 op :  >  FALSE
+
+Processing v against fz
+EVAL: rv = 1437, tv = 1055 op :  ==  FALSE
+
+Processing ehd against oxv
+EVAL: rv = 714, tv = -1701 op :  >=  TRUE
+DEC : rv = 1274, ov = -550
+RESULT: register ehd = 1824
+
+Processing hnb against mf
+EVAL: rv = -2110, tv = -3865 op :  <  FALSE
+
+Processing v against rny
+EVAL: rv = 714, tv = 4181 op :  ==  FALSE
+
+Processing z against dl
+EVAL: rv = 251, tv = 2705 op :  <=  TRUE
+INC : rv = -80, ov = 770
+RESULT: register z = 690
+
+Processing cp against fz
+EVAL: rv = 1437, tv = 1061 op :  >  TRUE
+DEC : rv = -2073, ov = -667
+RESULT: register cp = -1406
+
+Processing jf against he
+EVAL: rv = -332, tv = -1019 op :  ==  FALSE
+
+Processing z against eje
+EVAL: rv = 1639, tv = 2018 op :  >=  FALSE
+
+Processing a against he
+EVAL: rv = -332, tv = -1014 op :  <=  FALSE
+
+Processing bkd against yk
+EVAL: rv = 168, tv = 1257 op :  <  TRUE
+DEC : rv = -3130, ov = 507
+RESULT: register bkd = -3637
+
+Processing dl against dl
+EVAL: rv = 251, tv = 2700 op :  >=  FALSE
+
+Processing xn against fz
+EVAL: rv = 1437, tv = 1063 op :  <  FALSE
+
+Processing rny against fw
+EVAL: rv = 4187, tv = 4719 op :  <  TRUE
+DEC : rv = 714, ov = 607
+RESULT: register rny = 107
+
+Processing z against o
+EVAL: rv = 3032, tv = 4806 op :  >  FALSE
+
+Processing bkd against kfn
+EVAL: rv = -5230, tv = -3790 op :  <  TRUE
+INC : rv = -3637, ov = -93
+RESULT: register bkd = -3730
+
+Processing jf against kfn
+EVAL: rv = -5230, tv = -3786 op :  ==  FALSE
+
+Processing he against ehd
+EVAL: rv = 1824, tv = 1381 op :  >=  TRUE
+INC : rv = -332, ov = 749
+RESULT: register he = 417
+
+Processing rny against hnb
+EVAL: rv = -1496, tv = -1081 op :  !=  TRUE
+INC : rv = 107, ov = 447
+RESULT: register rny = 554
+
+Processing yk against a
+EVAL: rv = 1020, tv = -1840 op :  >=  TRUE
+DEC : rv = 168, ov = 298
+RESULT: register yk = -130
+
+Processing cp against xn
+EVAL: rv = 2556, tv = 5084 op :  <=  TRUE
+DEC : rv = -1406, ov = 377
+RESULT: register cp = -1783
+
+Processing eje against rny
+EVAL: rv = 554, tv = 4024 op :  <  TRUE
+DEC : rv = 1639, ov = 625
+RESULT: register eje = 1014
+
+Processing jf against jf
+EVAL: rv = 278, tv = 907 op :  !=  TRUE
+INC : rv = 278, ov = -15
+RESULT: register jf = 263
+
+Processing qur against z
+EVAL: rv = 690, tv = -329 op :  >  TRUE
+INC : rv = 1200, ov = 893
+RESULT: register qur = 2093
+
+Processing oxv against dl
+EVAL: rv = 251, tv = 2075 op :  <=  TRUE
+INC : rv = 714, ov = 941
+RESULT: register oxv = 1655
+
+Processing ehd against yk
+EVAL: rv = -130, tv = 953 op :  !=  TRUE
+DEC : rv = 1824, ov = 994
+RESULT: register ehd = 830
+
+Processing yk against z
+EVAL: rv = 690, tv = -329 op :  >  TRUE
+INC : rv = -130, ov = 941
+RESULT: register yk = 811
+
+Processing rny against bkd
+EVAL: rv = -3730, tv = -3394 op :  >  FALSE
+
+Processing fz against z
+EVAL: rv = 690, tv = -325 op :  >  TRUE
+DEC : rv = 1437, ov = 374
+RESULT: register fz = 1063
+
+Processing oxv against bkd
+EVAL: rv = -3730, tv = -3393 op :  <  TRUE
+DEC : rv = 1655, ov = -606
+RESULT: register oxv = 2261
+
+Processing cp against qur
+EVAL: rv = 2093, tv = 6619 op :  >=  FALSE
+
+Processing oxv against oso
+EVAL: rv = 2857, tv = 3467 op :  <=  TRUE
+INC : rv = 2261, ov = -794
+RESULT: register oxv = 1467
+
+Processing oso against b
+EVAL: rv = 2748, tv = 1823 op :  ==  FALSE
+
+Processing eje against rny
+EVAL: rv = 554, tv = 4029 op :  >  FALSE
+
+Processing fw against z
+EVAL: rv = 690, tv = -334 op :  >=  TRUE
+INC : rv = 4187, ov = 7
+RESULT: register fw = 4194
+
+Processing kfn against uly
+EVAL: rv = -1257, tv = 1661 op :  >=  FALSE
+
+Processing oso against mf
+EVAL: rv = -2110, tv = -3862 op :  !=  TRUE
+INC : rv = 2857, ov = 322
+RESULT: register oso = 3179
+
+Processing qur against bkd
+EVAL: rv = -3730, tv = -3410 op :  ==  FALSE
+
+Processing jf against cp
+EVAL: rv = -1783, tv = -4746 op :  <  FALSE
+
+Processing v against bkd
+EVAL: rv = -3730, tv = -3403 op :  ==  FALSE
+
+Processing v against bkd
+EVAL: rv = -3730, tv = -3403 op :  !=  TRUE
+INC : rv = -3147, ov = 860
+RESULT: register v = -2287
+
+Processing q against oso
+EVAL: rv = 3179, tv = 4088 op :  >  FALSE
+
+Processing dl against oso
+EVAL: rv = 3179, tv = 4095 op :  <=  TRUE
+DEC : rv = 251, ov = -840
+RESULT: register dl = 1091
+
+Processing xn against ehd
+EVAL: rv = 830, tv = 1376 op :  !=  TRUE
+INC : rv = 2556, ov = -296
+RESULT: register xn = 2260
+
+Processing mf against v
+EVAL: rv = -2287, tv = -4531 op :  ==  FALSE
+
+Processing fz against o
+EVAL: rv = 3032, tv = 4798 op :  ==  FALSE
+
+Processing v against ehd
+EVAL: rv = 830, tv = 1386 op :  !=  TRUE
+DEC : rv = -2287, ov = 977
+RESULT: register v = -3264
+
+Processing mf against ehd
+EVAL: rv = 830, tv = 1384 op :  ==  FALSE
+
+Processing o against cp
+EVAL: rv = -1783, tv = -4738 op :  <  FALSE
+
+Processing a against ehd
+EVAL: rv = 830, tv = 1379 op :  >=  FALSE
+
+Processing z against oso
+EVAL: rv = 3179, tv = 4088 op :  >=  FALSE
+
+Processing oxv against hnb
+EVAL: rv = -1496, tv = -1091 op :  >=  FALSE
+
+Processing uly against qur
+EVAL: rv = 2093, tv = 6614 op :  !=  TRUE
+DEC : rv = -1257, ov = 142
+RESULT: register uly = -1399
+
+Processing eje against oso
+EVAL: rv = 3179, tv = 4099 op :  !=  TRUE
+INC : rv = 1014, ov = -853
+RESULT: register eje = 161
+
+Processing xn against mf
+EVAL: rv = -2110, tv = -3389 op :  !=  TRUE
+INC : rv = 2260, ov = 897
+RESULT: register xn = 3157
+
+Processing kfn against yk
+EVAL: rv = 811, tv = 1894 op :  >=  FALSE
+
+Processing a against hnb
+EVAL: rv = -1496, tv = -1082 op :  ==  FALSE
+
+Processing uly against fw
+EVAL: rv = 4194, tv = 4715 op :  <=  TRUE
+DEC : rv = -1399, ov = -923
+RESULT: register uly = -476
+
+Processing ehd against fz
+EVAL: rv = 1063, tv = 1916 op :  ==  FALSE
+
+Processing oxv against oxv
+EVAL: rv = 1467, tv = -1107 op :  !=  TRUE
+DEC : rv = 1467, ov = -794
+RESULT: register oxv = 2261
+
+Processing hnb against qur
+EVAL: rv = 2093, tv = 6609 op :  >=  FALSE
+
+Processing xn against cp
+EVAL: rv = -1783, tv = -4748 op :  >=  TRUE
+DEC : rv = 3157, ov = -181
+RESULT: register xn = 3338
+
+Processing oso against q
+EVAL: rv = 3036, tv = -524 op :  >  TRUE
+INC : rv = 3179, ov = -334
+RESULT: register oso = 2845
+
+Processing ehd against oso
+EVAL: rv = 2845, tv = 3763 op :  ==  FALSE
+
+Processing uly against z
+EVAL: rv = 690, tv = -934 op :  ==  FALSE
+
+Processing kfn against fz
+EVAL: rv = 1063, tv = 1919 op :  <  TRUE
+INC : rv = -5230, ov = 873
+RESULT: register kfn = -4357
+
+Processing xn against hnb
+EVAL: rv = -1496, tv = -296 op :  ==  FALSE
+
+Processing o against uly
+EVAL: rv = -476, tv = 1529 op :  <  TRUE
+INC : rv = 3032, ov = 72
+RESULT: register o = 3104
+
+Processing oxv against q
+EVAL: rv = 3036, tv = -512 op :  !=  TRUE
+DEC : rv = 2261, ov = 727
+RESULT: register oxv = 1534
+
+Processing uly against hnb
+EVAL: rv = -1496, tv = -302 op :  >  FALSE
+
+Processing dl against cp
+EVAL: rv = -1783, tv = -4756 op :  !=  TRUE
+DEC : rv = 1091, ov = 579
+RESULT: register dl = 512
+
+Processing jf against cp
+EVAL: rv = -1783, tv = -4743 op :  <  FALSE
+
+Processing z against mf
+EVAL: rv = -2110, tv = -3395 op :  >=  TRUE
+INC : rv = 690, ov = -116
+RESULT: register z = 574
+
+Processing q against kfn
+EVAL: rv = -4357, tv = -3093 op :  >  FALSE
+
+Processing v against oxv
+EVAL: rv = 1534, tv = -1831 op :  ==  FALSE
+
+Processing a against qur
+EVAL: rv = 2093, tv = 6618 op :  <=  TRUE
+DEC : rv = 1020, ov = -410
+RESULT: register a = 1430
+
+Processing jf against he
+EVAL: rv = 417, tv = -264 op :  <  FALSE
+
+Processing oxv against oso
+EVAL: rv = 2845, tv = 3754 op :  >  FALSE
+
+Processing eje against q
+EVAL: rv = 3036, tv = -525 op :  ==  FALSE
+
+Processing v against v
+EVAL: rv = -3264, tv = -5508 op :  !=  TRUE
+INC : rv = -3264, ov = -613
+RESULT: register v = -3877
+
+Processing xn against bkd
+EVAL: rv = -3730, tv = -3413 op :  >  FALSE
+
+Processing mf against o
+EVAL: rv = 3104, tv = 4817 op :  !=  TRUE
+INC : rv = -2110, ov = -128
+RESULT: register mf = -2238
+
+Processing ehd against b
+EVAL: rv = 2748, tv = 1817 op :  >=  TRUE
+DEC : rv = 830, ov = 690
+RESULT: register ehd = 140
+
+Processing mf against b
+EVAL: rv = 2748, tv = 1826 op :  <=  FALSE
+
+Processing ehd against jf
+EVAL: rv = 263, tv = 1110 op :  ==  FALSE
+
+Processing rny against oso
+EVAL: rv = 2845, tv = 3759 op :  >=  FALSE
+
+Processing a against oxv
+EVAL: rv = 1534, tv = -1148 op :  ==  FALSE
+
+Processing dl against jf
+EVAL: rv = 263, tv = 1110 op :  !=  TRUE
+INC : rv = 512, ov = -837
+RESULT: register dl = -325
+
+Processing dl against hnb
+EVAL: rv = -1496, tv = -291 op :  <  TRUE
+DEC : rv = -325, ov = -519
+RESULT: register dl = 194
+
+Processing dl against qur
+EVAL: rv = 2093, tv = 6611 op :  <  TRUE
+INC : rv = 194, ov = -824
+RESULT: register dl = -630
+
+Processing fz against b
+EVAL: rv = 2748, tv = 1818 op :  <=  FALSE
+
+Processing cp against fz
+EVAL: rv = 1063, tv = 1909 op :  <  TRUE
+DEC : rv = -1783, ov = 331
+RESULT: register cp = -2114
+
+Processing fw against fz
+EVAL: rv = 1063, tv = 1922 op :  <  TRUE
+DEC : rv = 4194, ov = -971
+RESULT: register fw = 5165
+The total is 5165
+Complete
+All puzzle solving is complete.

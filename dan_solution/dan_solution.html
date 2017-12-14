@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <h1>Advent of Code, Day 3</h1>
+</head>
+<body>
+    <form>
+        <br/>Input: <input id="input" cols=160 onblur="doit()" />
+        <!-- <br/>Box:     <input readonly="true" id="box" />
+        <br/>Min:     <input readonly="true" id="min" />
+        <br/>Count:   <input readonly="true" id="count" />
+        <br/>Dim:     <input readonly="true" id="dim" />
+        <br/>Ordinal: <input readonly="true" id="ordinal" /> -->
+        <br/>Output, Part One: <input  readonly="true" id="output1" />
+    </form>
+    <script>
+        function box(cell) {
+            // Given a cell number, this returns the number
+            // identifying the bounding box that contains
+            // the cell.
+            // 
+            // We define bounding boxes centered around the
+            // initial cell (cell 1), and assign them numbers
+            // like this:
+            // 0 (cell 1)
+            // 1 (cells 2 through 9)
+            // 2 (cells 10 through 25)
+            // 3 (cells 26 through 49)
+            // etc.
+            //
+            // The box number allows us to calculate
+            // various things, like the dimensions of the
+            // box and range of cell numbers it contains. The equation
+            // is hard to explain, but was derived from inequalities
+            // based on equations for the lower and upper bound of
+            // cell numbers in each box. These were derived in the following
+            // steps, assuming box number b:
+            // dim(b) = 2*b + 1  [# of cells on each side of box b]
+            // count(b) = 2*dim(b) + 2*(dim(b)-2) = 8b [# of cells in box b, for b > 0]
+            // min(b) = 1 + sum{i=0..b-1}(count(i))
+            //        = 1 + 1 + sum{i=1..b-1}(count(i))
+            //        = 2 + sum{i=1..b-1}(8i)
+            //        = 2 + 8*sum{i=1..b-1}(i)
+            // Since the sum of the natural numbers from 1 to n is n(n+1)/2, we get:
+            //        = 2 + 4*(b-1)*b
+            //        = 4*b^2 - 4*b + 2
+            // A similar derivation gives max(b):
+            // min(b) = 4*b^2 - 4*b + 2
+            // max(b) = 4*b^2 + 4*b + 2
+            // Refactoring the quadratic equations a bit gives you these:
+            // min(b) = 4*(b - 1/2)^2 + 1
+            // max(b) = 4*(b + 1/2)^2 + 1
+            //
+            // Given a value n, we have these relationships to its box number:
+            // 4*(b - 1/2)^2 + 1 <= n 
+            // 4*(b + 1/2)^2 + 1 >= n
+            // Rearrangement gives us:
+            // (sqrt(n-1)+1)/2 >= b
+            // (sqrt(n-1)-1)/2 <= b
+            // Squint at these for a while and you can figure out how to calculate integer b
+            // from integer n:
+            return Math.floor((Math.sqrt(cell-1)/2)+0.5);
+        }
+        function calc1(cell) {
+            var b = box(cell);
+            if (b == 0) return 0;
+            // Now we can calculate the cell coordinates relative to the bottom left
+            // corner of the box. 
+            var min = 4*Math.pow(b,2) - 4*b + 2; // Smallest cell number in box.
+            var count = 8*b; // Number of cells in box perimeter.
+            var dim = 2*b + 1; // Number of cells on each side of box. 
+            var bottom_left = 0;
+            var bottom_right = dim-1;
+            var top_right = 2*dim-2;
+            var top_left = 3*dim-3;
+            // First we normalize the number so that it's zero at that bottom left
+            // location, still increasing counterclockwise. This is a bit tricky to
+            // figure out. Subtract min to normalize min to zero, increasing counter
+            // clockwise. Then subtract what the bottom left corner's number would
+            // be (3*dim(b) + 4). Then, add the count to ensure a positive number,
+            // and mod by the count.
+            var ordinal = (cell - min - 3*dim + 4 + count) % count;
+            // Start with the coordinates of the bottom left cell relative to
+            // cell 1, then adjust them.
+            var x = -b;
+            var y = -b;
+            if (ordinal > 3*dim-3) {
+                // On left side.
+                x += count - ordinal;
+            }
+            else if (ordinal > 2*dim-2) {
+                // On top side.
+                x += dim-1;
+                y += (2*dim-2) - ordinal;
+            }
+            else if (ordinal > dim-1) {
+                x += ordinal - (dim-1);
+                y += dim-1;
+            }
+            else {
+                // On bottom side.
+                x += ordinal;
+            }
+            // document.getElementById('box').value = b;
+            // document.getElementById('min').value = min;
+            // document.getElementById('count').value = count;
+            // document.getElementById('dim').value = dim;
+            // document.getElementById('ordinal').value = ordinal;
+
+            // Return the Manhattan distance to cell 1, which is the sum
+            // of the absolute values of the coordinates of the cell.
+            return Math.abs(x) + Math.abs(y);
+         }
+        function doit() {
+            var input = parseInt(document.getElementById('input').value);
+            document.getElementById('output1').value = calc1(input);
+        }
+    </script>
+</html>

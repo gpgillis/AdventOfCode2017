@@ -1,0 +1,49 @@
+ [macrodef] creating macro  advent-of-code
+ [macrodef] creating macro  repackage-scp
+Build sequence for target(s) `compile' is [compile]
+Complete build sequence is [compile, advent-of-code-jar, advent-of-code, ]
+
+compile:
+    [mkdir] Skipping C:\Development\SpecialProjects\AdventOfCode\out because it already exists.
+    [javac] C:\Development\SpecialProjects\AdventOfCode\build.xml:48: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] com\gpg\AdventOfCodeMain.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\AdventOfCodeMain.class is up to date.
+    [javac] com\gpg\Solver.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\Solver.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle1A.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle1A.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle1B.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle1B.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle2A.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle2A.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle2B.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle2B.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle3A.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle3A.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle3B.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle3B.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle3Base.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle3Base.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle4A.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle4A.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle4B.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle4B.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle5A.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle5A.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle5B.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle5B.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle5Base.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle5Base.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle6AB.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle6AB.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle7AB.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle7AB.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle8AB.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\Puzzle8AB.class is up to date.
+    [javac] com\gpg\puzzles\Puzzle9AB.java added as com\gpg\puzzles\Puzzle9AB.class is outdated.
+    [javac] com\gpg\puzzles\PuzzleBase.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\PuzzleBase.class is up to date.
+    [javac] com\gpg\puzzles\PuzzleTemplate.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\puzzles\PuzzleTemplate.class is up to date.
+    [javac] com\gpg\util\ArgUtil.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\util\ArgUtil.class is up to date.
+    [javac] com\gpg\util\FileUtil.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\util\FileUtil.class is up to date.
+    [javac] com\gpg\util\Logging.java omitted as C:\Development\SpecialProjects\AdventOfCode\out\com\gpg\util\Logging.class is up to date.
+    [javac] Compiling 1 source file to C:\Development\SpecialProjects\AdventOfCode\out
+    [javac] Using modern compiler
+    [javac] Compilation arguments:
+'-d'
+'C:\Development\SpecialProjects\AdventOfCode\out'
+'-classpath'
+'C:\Development\SpecialProjects\AdventOfCode\out;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-antlr.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-bcel.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-bsf.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-log4j.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-oro.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-regexp.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-resolver.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-apache-xalan2.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-commons-logging.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-commons-net.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-jai.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-javamail.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-jdepend.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-jmf.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-jsch.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-junit.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-junit4.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-launcher.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-netrexx.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-swing.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant-testutil.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\ant\lib\ant.jar;C:\kepler\tools\java\jdk1.6.0_45-64bit\lib\tools.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.4\lib\idea_rt.jar'
+'-sourcepath'
+'C:\Development\SpecialProjects\AdventOfCode\src'
+'-g:none'
+
+The ' characters around the executable and arguments are
+not part of the command.
+    [javac] File to be compiled:
+    C:\Development\SpecialProjects\AdventOfCode\src\com\gpg\puzzles\Puzzle9AB.java
+compile:  duration 0 seconds
+
+BUILD SUCCESSFUL
