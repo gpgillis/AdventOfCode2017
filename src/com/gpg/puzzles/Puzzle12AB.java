@@ -71,7 +71,7 @@ import java.util.Map;
     The correct answer is 211 with puzzle12.dat
 
  */
-public class Puzzle12A extends PuzzleBase {
+public class Puzzle12AB extends PuzzleBase {
     protected boolean DataIsValid(ArrayList<String> inputData) {
         return ValidateMultiLineDataFile(inputData);
     }
