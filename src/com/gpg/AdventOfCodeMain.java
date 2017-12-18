@@ -131,6 +131,8 @@ public class AdventOfCodeMain {
                 return new Solver(new Puzzle10A(), new Puzzle10B());
             case 11:
                 return new Solver(new Puzzle11AB(), null);
+            case 12:
+                return new Solver(new Puzzle12A(), null);
         }
 
         return null;
